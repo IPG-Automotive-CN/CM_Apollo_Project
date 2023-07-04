@@ -1,0 +1,21 @@
+APPLICATION	Car_Generic <insert.your.version.no> #468 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-09-01 10:52:32
+ 
+FIRST_INIT	(internal default used)	2022-09-01 10:55:24
+TIME	0.000
+SIM_END			0s	0m
+IDLE	10:55:25
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARRSI	2022-09-01 10:55:25
+TIME	0.076
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1662000925
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_LIDARRSI
+
+TIME	3.015
+SIM_END		SF_OpenDRIVE_IPGDriver_LIDARRSI	3.01s	0.0113612m
+SHUTDOWN	CarMaker quick shutdown initiated
+

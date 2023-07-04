@@ -1,0 +1,70 @@
+APPLICATION	Car_Generic <insert.your.version.no> #624 (linux64-11.0)
+COMPILED	yil@ipgcn1 2023-06-30 17:48:27
+ 
+FIRST_INIT	(internal default used)	2023-07-03 11:02:33
+TIME	0.000
+SIM_END			0s	0m
+IDLE	11:02:34
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	2023-07-03 11:02:34
+TIME	0.077
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1688353354
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR
+
+TIME	129.695
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	300.455
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	334.723
+ERROR		Embedded FARoadSensor Geo:  xyz (-27.06 205.97 10.29) not found on Road
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	334.723s	279.622m
+TIME	337.243
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	2023-07-03 11:08:38
+TIME	0.070
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1688353718
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR
+
+TIME	4.536
+ERROR		Vehicle leaves road at about x=-111.391, y=-10.214 TireNo=1
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	4.536s	12.8781m
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	2023-07-03 11:08:54
+TIME	0.068
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1688353734
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR
+
+TIME	3.546
+ERROR		Vehicle leaves road at about x=-111.363, y=-10.4481 TireNo=1
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	3.546s	13.0627m
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	2023-07-03 11:09:11
+TIME	4.428
+WARNING		TestRun start aborted because of state (SimCore.State=End)
+TIME	0.226
+WARNING		Cannot start simulation, must be in state 'Idle' (currently 'End')
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1688353734
+SIM_END		SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0s	0m
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	2023-07-03 11:09:25
+TIME	0.070
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1688353765
+		GPUSensor A2:ipgcn1.1: Timeout during initialization
+ERROR		One or more GPUSensors not ready in time
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0s	0m
+SHUTDOWN	CarMaker quick shutdown initiated
+

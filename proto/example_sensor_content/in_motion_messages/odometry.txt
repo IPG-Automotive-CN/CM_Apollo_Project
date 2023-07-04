@@ -1,0 +1,25 @@
+[msgType:apollo.localization.Gps, topic: /apollo/sensor/gnss/odometry]
+
+header {
+  timestamp_sec: 1581164944.382252
+  sequence_num: 575
+}
+localization {
+  position {
+    x: 552880.0762529373
+    y: 4182778.5283203125
+    z: 10.120512008666992
+  }
+  orientation {
+    qx: 0.0012579475296661258
+    qy: -0.0010100490180775523
+    qz: -0.9486737847328186
+    qw: -0.31625238060951233
+  }
+  linear_acceleration {
+    x: -2.1750142574310303
+    y: -0.5030191540718079
+    z: -0.00014582276344299316
+  }
+  heading: -216.87278747558594
+}

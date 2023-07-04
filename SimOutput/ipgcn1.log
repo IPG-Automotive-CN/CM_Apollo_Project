@@ -1,0 +1,3265 @@
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 12:01:58
+
+
+SYSTEM_INFO	CarMaker 11.0 - Car_Generic #111	fh@dagobert.ipg 2022-03-30 10:40:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661832118	ipgcn1			0	0	0
+SIM	1661832119	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 13:49:27
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #423	yil@ipgcn1 2022-08-30 11:57:48	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 13:51:38
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #423	yil@ipgcn1 2022-08-30 11:57:48	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661838698	ipgcn1			0	0	0
+SIM	1661838700	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2	0	0
+SIM	1661838758	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2	0	0
+SIM	1661839156	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 14:04:45
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #424	yil@ipgcn1 2022-08-30 14:04:39	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661839485	ipgcn1			0	0	0
+SIM	1661839487	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	1	0	0
+SIM	1661839651	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	1	0	0
+SIM	1661839668	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	5.863	0.00546237
+SIM	1661839712	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	3.568	0.00487344
+SIM	1661839740	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	2.69	0.00463832
+SIM	1661839755	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	1	0	0.00463832
+SIM	1661839769	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	4.448	0.00510362
+SIM	1661839817	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	2.94	0.00470589
+SIM	1661839888	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	1.024	0.00398939
+SIM	1661839904	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	10.86	0.00662734
+SIM	1661839952	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	1.417	0.00425892
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 14:33:14
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #424	yil@ipgcn1 2022-08-30 14:04:39	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661841194	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 14:38:33
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #424	yil@ipgcn1 2022-08-30 14:04:39	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661841514	ipgcn1			0	0	0
+SIM	1661841518	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	9.592	0.00241221
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 14:45:58
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #424	yil@ipgcn1 2022-08-30 14:04:39	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661841958	ipgcn1			0	0	0
+SIM	1661841960	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	26.84	0.00390531
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 14:50:10
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #424	yil@ipgcn1 2022-08-30 14:04:39	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661842210	ipgcn1			0	0	0
+SIM	1661842211	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	16.557	0.00383864
+SIM	1661842281	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	19.805	0.0031038
+SIM	1661842364	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	11.574	73.2263
+SIM	1661842440	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	1.627	4.28072
+SIM	1661842494	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	20.289	141.04
+SIM	1661842848	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	1	47.766	348.942
+SIM	1661843108	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	4	0	348.942
+SIM	1661843119	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	4	0	0
+SIM	1661843136	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	4	0	0
+SIM	1661843194	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	4	0	0
+SIM	1661843237	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	3.067	12.5534
+SIM	1661843389	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	0.214	0.0636691
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 15:12:46
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #425	yil@ipgcn1 2022-08-30 15:12:34	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661843566	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 15:16:13
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #425	yil@ipgcn1 2022-08-30 15:12:34	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661843773	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 15:16:47
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #426	yil@ipgcn1 2022-08-30 15:16:33	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661843807	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 15:18:58
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #427	yil@ipgcn1 2022-08-30 15:18:48	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661843938	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 15:20:14
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #427	yil@ipgcn1 2022-08-30 15:18:48	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661844015	ipgcn1			0	0	0
+SIM	1661844016	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	8.585	0.00252363
+SIM	1661844058	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	3.762	15.7952
+SIM	1661844368	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	42.182	75.4199
+SIM	1661844539	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	121.17	75.5259
+SIM	1661845034	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	64.063	78.7821
+SIM	1661845292	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	57.145	239.097
+SIM	1661847772	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	52.424	109.766
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 16:33:48
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #428	yil@ipgcn1 2022-08-30 16:33:35	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661848428	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 16:36:05
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #429	yil@ipgcn1 2022-08-30 16:35:49	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661848565	ipgcn1			0	0	0
+SIM	1661848567	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	54.722	0.965126
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 16:38:14
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #430	yil@ipgcn1 2022-08-30 16:37:51	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661848694	ipgcn1			0	0	0
+SIM	1661848696	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	1.927	0.0117932
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 16:39:43
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #431	yil@ipgcn1 2022-08-30 16:39:35	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661848783	ipgcn1			0	0	0
+SIM	1661848785	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	6.337	0.858764
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 16:44:55
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #432	yil@ipgcn1 2022-08-30 16:44:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661849095	ipgcn1			0	0	0
+SIM	1661849096	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	1.981	1.20823
+SIM	1661849130	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	1.222	0.0130147
+SIM	1661849158	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	4.78	0.0140594
+SIM	1661849199	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	11.866	0.877606
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 16:47:15
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #435	yil@ipgcn1 2022-08-30 16:47:08	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661849235	ipgcn1			0	0	0
+SIM	1661849236	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	2.192	0.0151339
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 16:47:58
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #436	yil@ipgcn1 2022-08-30 16:47:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661849279	ipgcn1			0	0	0
+SIM	1661849280	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	2.623	1.71888
+SIM	1661849327	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	12.004	0.878044
+SIM	1661849377	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	26.391	0.916953
+SIM	1661849519	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	49.515	0.958496
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 16:54:01
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #438	yil@ipgcn1 2022-08-30 16:53:41	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661849641	ipgcn1			0	0	0
+SIM	1661849643	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	1	0	0
+SIM	1661849650	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	22.012	41.4986
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 16:56:31
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #439	yil@ipgcn1 2022-08-30 16:56:11	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661849791	ipgcn1			0	0	0
+SIM	1661849793	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	5.642	9.75483
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 16:58:25
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #440	yil@ipgcn1 2022-08-30 16:58:16	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661849905	ipgcn1			0	0	0
+SIM	1661849907	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	2.492	3.64998
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 17:01:06
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #441	yil@ipgcn1 2022-08-30 17:00:22	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661850066	ipgcn1			0	0	0
+SIM	1661850068	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	6.241	0.858413
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 17:03:28
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #443	yil@ipgcn1 2022-08-30 17:03:14	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661850209	ipgcn1			0	0	0
+SIM	1661850210	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	10.957	0.0113681
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 17:04:30
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #444	yil@ipgcn1 2022-08-30 17:04:20	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661850271	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 17:06:26
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #445	yil@ipgcn1 2022-08-30 17:06:16	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661850386	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 17:08:39
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #445	yil@ipgcn1 2022-08-30 17:06:16	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661850520	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 17:10:21
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #446	yil@ipgcn1 2022-08-30 17:10:13	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661850621	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 17:17:42
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #447	yil@ipgcn1 2022-08-30 17:17:34	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661851062	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 17:19:58
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #448	yil@ipgcn1 2022-08-30 17:19:47	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661851198	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 17:20:33
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #449	yil@ipgcn1 2022-08-30 17:20:26	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661851233	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 17:22:31
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #450	yil@ipgcn1 2022-08-30 17:22:21	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661851351	ipgcn1			0	0	0
+SIM	1661851353	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	15.558	28.9646
+SIM	1661851380	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	47.281	72.318
+SIM	1661851436	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	38.557	0.013755
+SIM	1661851485	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	70.717	0.0137582
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 17:26:13
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #450	yil@ipgcn1 2022-08-30 17:22:21	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661851573	ipgcn1			0	0	0
+SIM	1661851574	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	39.565	70.1789
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 17:45:11
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #450	yil@ipgcn1 2022-08-30 17:22:21	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661852711	ipgcn1			0	0	0
+SIM	1661852712	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	8.593	0.0137389
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 17:45:33
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #450	yil@ipgcn1 2022-08-30 17:22:21	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661852733	ipgcn1			0	0	0
+SIM	1661852734	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	39.662	70.1781
+SIM	1661852862	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	8.137	0.0137384
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 17:48:59
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #451	yil@ipgcn1 2022-08-30 17:48:49	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661852939	ipgcn1			0	0	0
+SIM	1661852941	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	42.349	70.0285
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 17:51:57
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #451	yil@ipgcn1 2022-08-30 17:48:49	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661853117	ipgcn1			0	0	0
+SIM	1661853118	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	15.986	0.0137456
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 17:53:08
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #451	yil@ipgcn1 2022-08-30 17:48:49	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661853189	ipgcn1			0	0	0
+SIM	1661853190	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	3.108	4.8417
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 17:53:47
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #451	yil@ipgcn1 2022-08-30 17:48:49	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661853227	ipgcn1			0	0	0
+SIM	1661853229	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	4.262	7.07885
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 17:54:42
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #451	yil@ipgcn1 2022-08-30 17:48:49	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661853283	ipgcn1			0	0	0
+SIM	1661853284	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	22.288	36.8877
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 17:58:45
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #451	yil@ipgcn1 2022-08-30 17:48:49	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661853525	ipgcn1			0	0	0
+SIM	1661853527	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	22.458	0.0137496
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 18:00:30
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #451	yil@ipgcn1 2022-08-30 17:48:49	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661853630	ipgcn1			0	0	0
+SIM	1661853632	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	8.057	14.4379
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 18:03:49
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #451	yil@ipgcn1 2022-08-30 17:48:49	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661853829	ipgcn1			0	0	0
+SIM	1661853831	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	1.696	0.0113545
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 18:04:18
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #451	yil@ipgcn1 2022-08-30 17:48:49	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661853860	ipgcn1			0	0	0
+SIM	1661853862	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	79.196	102.112
+SIM	1661854098	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	16.906	81.991
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 18:09:33
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #451	yil@ipgcn1 2022-08-30 17:48:49	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661854173	ipgcn1			0	0	0
+SIM	1661854174	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	34.983	91.1721
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 18:33:36
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #452	yil@ipgcn1 2022-08-30 18:33:18	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661855616	ipgcn1			0	0	0
+SIM	1661855625	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	137.053	217.137
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-30 18:36:12
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #452	yil@ipgcn1 2022-08-30 18:33:18	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661855772	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 10:39:49
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #453	yil@ipgcn1 2022-08-30 18:39:06	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661913589	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 10:45:30
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #455	yil@ipgcn1 2022-08-31 10:43:41	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661913931	ipgcn1			0	0	0
+SIM	1661913934	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	86.929	132.41
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 11:32:23
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #455	yil@ipgcn1 2022-08-31 10:43:41	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661916744	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 14:21:43
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #456	yil@ipgcn1 2022-08-31 14:21:15	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661926903	ipgcn1			0	0	0
+SIM	1661926905	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 14:24:51
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #456	yil@ipgcn1 2022-08-31 14:21:15	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661927092	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 14:25:23
+
+
+SYSTEM_INFO	CarMaker 11.0 - Car_Generic #111	fh@dagobert.ipg 2022-03-30 10:40:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661927123	ipgcn1			0	0	0
+SIM	1661927126	ipgcn1	yil	Examples/BasicFunctions/Sensors/LidarRSI_Countryside	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 14:26:02
+
+
+SYSTEM_INFO	CarMaker 11.0 - Car_Generic #111	fh@dagobert.ipg 2022-03-30 10:40:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661927162	ipgcn1			0	0	0
+SIM	1661927165	ipgcn1	yil	Examples/BasicFunctions/Sensors/LidarRSI_Countryside	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 14:31:08
+
+
+SYSTEM_INFO	CarMaker 11.0 - Car_Generic #111	fh@dagobert.ipg 2022-03-30 10:40:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661927469	ipgcn1			0	0	0
+SIM	1661927470	ipgcn1	yil	Examples/BasicFunctions/Sensors/LidarRSI_Countryside	0	3.457	6.3319
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 14:31:47
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #456	yil@ipgcn1 2022-08-31 14:21:15	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661927507	ipgcn1			0	0	0
+SIM	1661927516	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	30.804	0.926623
+SIM	1661927583	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	26.221	0.916561
+SIM	1661927621	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	12.942	0.880984
+SIM	1661927675	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	13.992	0.8842
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 14:35:45
+
+
+SYSTEM_INFO	CarMaker 11.0 - Car_Generic #111	fh@dagobert.ipg 2022-03-30 10:40:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661927746	ipgcn1			0	0	0
+SIM	1661927747	ipgcn1	yil	Examples/BasicFunctions/Sensors/LidarRSI_Countryside	0	27.108	200.596
+SIM	1661927825	ipgcn1	yil	Examples/BasicFunctions/Sensors/LidarRSI_Countryside	0	3.589	7.11776
+SIM	1661927864	ipgcn1	yil	Examples/BasicFunctions/Sensors/LidarRSI_Countryside	0	9.398	52.8498
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 14:38:18
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #456	yil@ipgcn1 2022-08-31 14:21:15	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661927898	ipgcn1			0	0	0
+SIM	1661927900	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	19.01	0.898546
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 14:51:25
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #457	yil@ipgcn1 2022-08-31 14:51:05	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661928686	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 15:48:40
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #458	yil@ipgcn1 2022-08-31 15:47:19	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661932121	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 15:59:07
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #459	yil@ipgcn1 2022-08-31 15:59:01	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661932748	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 16:00:15
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #460	yil@ipgcn1 2022-08-31 16:00:06	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661932816	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 16:02:29
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #461	yil@ipgcn1 2022-08-31 16:02:23	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661932949	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 16:03:52
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #462	yil@ipgcn1 2022-08-31 16:03:42	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661933032	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 16:04:52
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #463	yil@ipgcn1 2022-08-31 16:04:43	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661933092	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 16:06:11
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #464	yil@ipgcn1 2022-08-31 16:06:04	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661933171	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 17:10:08
+
+
+SYSTEM_INFO	CarMaker 11.0 - Car_Generic #111	fh@dagobert.ipg 2022-03-30 10:40:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661937008	ipgcn1			0	0	0
+SIM	1661937028	ipgcn1	yil	Examples/BasicFunctions/Sensors/LidarRSI_Countryside	0	14.83	0.00781464
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 17:57:45
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #465	yil@ipgcn1 2022-08-31 17:54:59	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661939865	ipgcn1			0	0	0
+SIM	1661939875	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 17:58:57
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #465	yil@ipgcn1 2022-08-31 17:54:59	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661939938	ipgcn1			0	0	0
+SIM	1661939941	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	28.598	0.921905
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 17:59:40
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #465	yil@ipgcn1 2022-08-31 17:54:59	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661939980	ipgcn1			0	0	0
+SIM	1661939981	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	2.297	0.139713
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 18:03:00
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #465	yil@ipgcn1 2022-08-31 17:54:59	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661940181	ipgcn1			0	0	0
+SIM	1661940183	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	18.138	0.896168
+SIM	1661940211	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	4.761	0.852873
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 18:06:15
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #465	yil@ipgcn1 2022-08-31 17:54:59	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661940375	ipgcn1			0	0	0
+SIM	1661940376	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 18:06:30
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #465	yil@ipgcn1 2022-08-31 17:54:59	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661940390	ipgcn1			0	0	0
+SIM	1661940391	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	83.613	0.98866
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 18:18:14
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #465	yil@ipgcn1 2022-08-31 17:54:59	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661941094	ipgcn1			0	0	0
+SIM	1661941096	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	23.472	0.910026
+SIM	1661941129	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	1	261.121	1.00094
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 18:23:22
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #465	yil@ipgcn1 2022-08-31 17:54:59	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661941402	ipgcn1			0	0	0
+SIM	1661941404	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	17.74	0.895067
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-08-31 18:25:16
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #466	yil@ipgcn1 2022-08-31 18:24:49	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661941517	ipgcn1			0	0	0
+SIM	1661941518	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	113.671	0.997673
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 10:28:39
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #467	yil@ipgcn1 2022-09-01 10:27:07	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1661999320	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 10:43:13
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #467	yil@ipgcn1 2022-09-01 10:27:07	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662000193	ipgcn1			0	0	0
+SIM	1662000195	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	46.544	89.0696
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 10:44:11
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #467	yil@ipgcn1 2022-09-01 10:27:07	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662000251	ipgcn1			0	0	0
+SIM	1662000252	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0	82.05	157.874
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 10:47:04
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #467	yil@ipgcn1 2022-09-01 10:27:07	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662000424	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 10:51:01
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #467	yil@ipgcn1 2022-09-01 10:27:07	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662000661	ipgcn1			0	0	0
+SIM	1662000667	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	1	0	0
+SIM	1662000698	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	1	0	0
+SIM	1662000714	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 10:52:47
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #468	yil@ipgcn1 2022-09-01 10:52:32	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662000768	ipgcn1			0	0	0
+SIM	1662000774	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	134.515	0.011832
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 10:55:24
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #468	yil@ipgcn1 2022-09-01 10:52:32	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662000924	ipgcn1			0	0	0
+SIM	1662000925	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	3.01	0.0113612
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 10:55:40
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #468	yil@ipgcn1 2022-09-01 10:52:32	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662000940	ipgcn1			0	0	0
+SIM	1662000942	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	26.847	0.0113754
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 10:56:54
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #468	yil@ipgcn1 2022-09-01 10:52:32	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662001015	ipgcn1			0	0	0
+SIM	1662001016	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	68.471	0.0113801
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 11:04:03
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #469	yil@ipgcn1 2022-09-01 11:02:23	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662001444	ipgcn1			0	0	0
+SIM	1662001445	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	22.549	0.907742
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 11:04:40
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #469	yil@ipgcn1 2022-09-01 11:02:23	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662001480	ipgcn1			0	0	0
+SIM	1662001481	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	17.153	0.893425
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 11:05:32
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #469	yil@ipgcn1 2022-09-01 11:02:23	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662001533	ipgcn1			0	0	0
+SIM	1662001534	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	70.375	0.980329
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 11:06:55
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #469	yil@ipgcn1 2022-09-01 11:02:23	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662001616	ipgcn1			0	0	0
+SIM	1662001617	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	28.945	0.922662
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 11:07:35
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #469	yil@ipgcn1 2022-09-01 11:02:23	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662001655	ipgcn1			0	0	0
+SIM	1662001656	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	1	0.08	0.00689198
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 11:07:51
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #469	yil@ipgcn1 2022-09-01 11:02:23	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662001671	ipgcn1			0	0	0
+SIM	1662001674	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	43.679	0.949987
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 11:09:02
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #469	yil@ipgcn1 2022-09-01 11:02:23	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662001742	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 11:09:26
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #469	yil@ipgcn1 2022-09-01 11:02:23	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662001767	ipgcn1			0	0	0
+SIM	1662001768	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	14.763	0.886511
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 11:09:52
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #469	yil@ipgcn1 2022-09-01 11:02:23	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662001793	ipgcn1			0	0	0
+SIM	1662001794	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	15.733	0.889362
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 11:12:10
+
+
+SYSTEM_INFO	CarMaker 11.0 - Car_Generic #111	fh@dagobert.ipg 2022-03-30 10:40:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662001930	ipgcn1			0	0	0
+SIM	1662001946	ipgcn1	yil	Examples/BasicFunctions/Sensors/LidarRSI_Countryside	0	20.09	142.118
+SIM	1662001984	ipgcn1	yil	Examples/BasicFunctions/Sensors/LidarRSI_Countryside	0	8.191	42.8099
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 11:13:27
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #469	yil@ipgcn1 2022-09-01 11:02:23	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662002008	ipgcn1			0	0	0
+SIM	1662002010	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 11:14:02
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #469	yil@ipgcn1 2022-09-01 11:02:23	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662002042	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 11:14:26
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #469	yil@ipgcn1 2022-09-01 11:02:23	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662002066	ipgcn1			0	0	0
+SIM	1662002099	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 11:15:05
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #469	yil@ipgcn1 2022-09-01 11:02:23	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662002105	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 11:15:26
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #469	yil@ipgcn1 2022-09-01 11:02:23	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662002126	ipgcn1			0	0	0
+SIM	1662002129	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	11.769	0.877297
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 11:55:19
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #469	yil@ipgcn1 2022-09-01 11:02:23	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662004519	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 12:11:32
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #470	yil@ipgcn1 2022-09-01 12:10:17	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662005492	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 13:57:30
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #470	yil@ipgcn1 2022-09-01 12:10:17	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662011851	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 14:09:10
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #470	yil@ipgcn1 2022-09-01 12:10:17	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662012551	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 14:19:43
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #471	yil@ipgcn1 2022-09-01 14:19:30	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662013184	ipgcn1			0	0	0
+SIM	1662013194	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	1	0.121	0.00694149
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 14:21:27
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #471	yil@ipgcn1 2022-09-01 14:19:30	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662013287	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 14:22:30
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #471	yil@ipgcn1 2022-09-01 14:19:30	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662013350	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 15:03:18
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #471	yil@ipgcn1 2022-09-01 14:19:30	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662015798	ipgcn1			0	0	0
+SIM	1662015800	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	76.262	0.984475
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 15:07:31
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #472	yil@ipgcn1 2022-09-01 15:06:36	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662016051	ipgcn1			0	0	0
+SIM	1662016085	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 15:08:25
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #472	yil@ipgcn1 2022-09-01 15:06:36	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662016105	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 15:08:57
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #472	yil@ipgcn1 2022-09-01 15:06:36	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662016137	ipgcn1			0	0	0
+SIM	1662016139	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	454.96	1.00094
+SIM	1662016695	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	17.946	0.895638
+SIM	1662016723	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	1	31.081	0.927199
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 15:20:03
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #472	yil@ipgcn1 2022-09-01 15:06:36	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662016803	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 15:20:30
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #472	yil@ipgcn1 2022-09-01 15:06:36	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662016830	ipgcn1			0	0	0
+SIM	1662016832	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	11.239	0.875597
+SIM	1662016852	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	2.273	0.124144
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 15:21:36
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #472	yil@ipgcn1 2022-09-01 15:06:36	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662016896	ipgcn1			0	0	0
+SIM	1662016897	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	1	0	0
+SIM	1662016902	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	11.6	0.876757
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 15:26:28
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #473	yil@ipgcn1 2022-09-01 15:26:11	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662017188	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 15:28:23
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #474	yil@ipgcn1 2022-09-01 15:28:15	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662017303	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 15:28:48
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #474	yil@ipgcn1 2022-09-01 15:28:15	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662017328	ipgcn1			0	0	0
+SIM	1662017330	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	1.548	0.0138179
+SIM	1662017337	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	13.033	0.0139263
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 15:31:28
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #475	yil@ipgcn1 2022-09-01 15:31:20	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662017488	ipgcn1			0	0	0
+SIM	1662017490	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	23.46	0.0138339
+SIM	1662017518	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	3.066	0.0137903
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 15:33:18
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #475	yil@ipgcn1 2022-09-01 15:31:20	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662017599	ipgcn1			0	0	0
+SIM	1662017602	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	17.566	0.894582
+SIM	1662017625	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	95.302	0.993443
+SIM	1662017727	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	323.323	42.7392
+SIM	1662018087	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	13.693	12.7202
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 15:41:53
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #475	yil@ipgcn1 2022-09-01 15:31:20	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662018113	ipgcn1			0	0	0
+SIM	1662018114	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	14.143	33.8927
+SIM	1662018148	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	34.274	42.7877
+SIM	1662018239	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	12.703	11.8121
+SIM	1662018281	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	182.962	42.5237
+SIM	1662018554	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	52.075	48.7462
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 15:52:43
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #476	yil@ipgcn1 2022-09-01 15:52:31	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662018763	ipgcn1			0	0	0
+SIM	1662018765	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	27.479	45.4742
+SIM	1662018799	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	67.22	58.6774
+SIM	1662018875	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	57.053	0.0113821
+SIM	1662019226	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	58.533	0.0122756
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 16:03:00
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #478	yil@ipgcn1 2022-09-01 16:02:51	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662019380	ipgcn1			0	0	0
+SIM	1662019382	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	23.223	15.9177
+SIM	1662019413	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	38.313	55.2911
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 16:05:47
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #479	yil@ipgcn1 2022-09-01 16:05:37	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662019547	ipgcn1			0	0	0
+SIM	1662019549	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	13.47	14.1604
+SIM	1662019569	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	78.24	55.2571
+SIM	1662019656	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	79.021	60.8027
+SIM	1662019757	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	76.775	71.6702
+SIM	1662019841	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	5.324	4.33948
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 16:11:41
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #479	yil@ipgcn1 2022-09-01 16:05:37	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662019901	ipgcn1			0	0	0
+SIM	1662019903	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	14.277	0.871748
+SIM	1662019925	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	136.004	0.983104
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 16:17:05
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #479	yil@ipgcn1 2022-09-01 16:05:37	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662020225	ipgcn1			0	0	0
+SIM	1662020303	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	14.106	0.871245
+SIM	1662020326	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	43.543	0.934889
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 17:48:59
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #479	yil@ipgcn1 2022-09-01 16:05:37	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662025739	ipgcn1			0	0	0
+SIM	1662025741	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	4.549	0.013734
+SIM	1662025762	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	1	56.007	97.9152
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 17:56:52
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #479	yil@ipgcn1 2022-09-01 16:05:37	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662026212	ipgcn1			0	0	0
+SIM	1662026213	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	5.672	5.14887
+SIM	1662026232	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	49.535	89.6474
+SIM	1662026299	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	679.022	110.144
+SIM	1662026984	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	1	3.916	13.1339
+SIM	1662027005	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	1	3.47	13.3377
+SIM	1662027028	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	1	3.468	13.2549
+SIM	1662027059	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	712.526	0.984163
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-01 18:25:13
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #479	yil@ipgcn1 2022-09-01 16:05:37	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662027913	ipgcn1			0	0	0
+SIM	1662027915	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	39.862	72.1721
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-05 10:42:25
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #479	yil@ipgcn1 2022-09-01 16:05:37	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662345746	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-05 15:18:44
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #480	yil@ipgcn1 2022-09-05 15:12:44	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1662362325	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-09-16 12:06:03
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #480	yil@ipgcn1 2022-09-05 15:12:44	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1663301163	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 10:20:15
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #495	yil@ipgcn1 2022-10-19 10:45:20	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666578015	ipgcn1			0	0	0
+SIM	1666578017	ipgcn1	yil	Examples/BasicFunctions/Sensors/RadarSensor_MergeObjects	1	0	0
+SIM	1666578034	ipgcn1	yil	Examples/BasicFunctions/Sensors/RadarSensor_Occlusion	1	0	0
+SIM	1666578048	ipgcn1	yil	Examples/BasicFunctions/Driver/BackAndForth	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 10:31:46
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #496	yil@ipgcn1 2022-10-24 10:31:17	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666578706	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 10:32:14
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #496	yil@ipgcn1 2022-10-24 10:31:17	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666578734	ipgcn1			0	0	0
+SIM	1666578736	ipgcn1	yil	Examples/BasicFunctions/Driver/BackAndForth	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 10:47:10
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #497	yil@ipgcn1 2022-10-24 10:46:54	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666579630	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 10:56:11
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #497	yil@ipgcn1 2022-10-24 10:46:54	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666580171	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 11:04:57
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #497	yil@ipgcn1 2022-10-24 10:46:54	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666580697	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 11:06:41
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #498	yil@ipgcn1 2022-10-24 11:06:31	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666580801	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 11:09:06
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #498	yil@ipgcn1 2022-10-24 11:06:31	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666580947	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 11:11:52
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #499	yil@ipgcn1 2022-10-24 11:11:41	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666581112	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 11:13:42
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #500	yil@ipgcn1 2022-10-24 11:13:35	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666581222	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 11:17:58
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #501	yil@ipgcn1 2022-10-24 11:15:42	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666581479	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 11:29:24
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #502	yil@ipgcn1 2022-10-24 11:29:16	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666582164	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 11:31:05
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #503	yil@ipgcn1 2022-10-24 11:30:09	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666582265	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 14:03:24
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #504	yil@ipgcn1 2022-10-24 14:03:12	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666591404	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 15:06:48
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #506	yil@ipgcn1 2022-10-24 15:06:40	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666595208	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 15:10:42
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #508	yil@ipgcn1 2022-10-24 15:10:35	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666595442	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 15:16:21
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #509	yil@ipgcn1 2022-10-24 15:16:13	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666595781	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 15:50:47
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #509	yil@ipgcn1 2022-10-24 15:16:13	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666597847	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 16:04:05
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #509	yil@ipgcn1 2022-10-24 15:16:13	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666598645	ipgcn1			0	0	0
+SIM	1666598646	ipgcn1	yil	CM_WITH_APOLLO_RADARSENSOR	0	336.505	0.984163
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 16:29:04
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #509	yil@ipgcn1 2022-10-24 15:16:13	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666600144	ipgcn1			0	0	0
+SIM	1666600144	ipgcn1	yil	CM_WITH_APOLLO_RADARSENSOR	0	1125.51	1252.82
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 17:14:27
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #510	yil@ipgcn1 2022-10-24 17:10:09	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666602867	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 18:35:41
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #511	yil@ipgcn1 2022-10-24 18:35:07	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666607741	ipgcn1			0	0	0
+SIM	1666607742	ipgcn1	yil	CM_WITH_APOLLO_RADARSENSOR	0	68.215	0.962834
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 18:40:35
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #511	yil@ipgcn1 2022-10-24 18:35:07	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666608035	ipgcn1			0	0	0
+SIM	1666608036	ipgcn1	yil	CM_WITH_APOLLO_RADARSENSOR	0	8.663	0.854139
+SIM	1666608065	ipgcn1	yil	CM_WITH_APOLLO_RADARSENSOR	0	10.141	0.859007
+SIM	1666608093	ipgcn1	yil	CM_WITH_APOLLO_RADARSENSOR	0	0.759	0.486228
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 18:41:38
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #511	yil@ipgcn1 2022-10-24 18:35:07	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666608098	ipgcn1			0	0	0
+SIM	1666608100	ipgcn1	yil	CM_WITH_APOLLO_RADARSENSOR	0	1.617	0.826927
+SIM	1666608112	ipgcn1	yil	CM_WITH_APOLLO_RADARSENSOR	0	0.704	0.438501
+SIM	1666608135	ipgcn1	yil	CM_WITH_APOLLO_RADARSENSOR	0	19.363	0.885848
+SIM	1666608162	ipgcn1	yil	CM_WITH_APOLLO_RADARSENSOR	0	6.427	0.846425
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 18:42:53
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #511	yil@ipgcn1 2022-10-24 18:35:07	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666608173	ipgcn1			0	0	0
+SIM	1666608174	ipgcn1	yil	CM_WITH_APOLLO_RADARSENSOR	0	113.334	0.98103
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-24 18:44:51
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #511	yil@ipgcn1 2022-10-24 18:35:07	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666608291	ipgcn1			0	0	0
+SIM	1666608292	ipgcn1	yil	CM_WITH_APOLLO_RADARSENSOR	0	7.981	0.851833
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 13:55:40
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #512	yil@ipgcn1 2022-10-25 13:55:26	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666677340	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 14:55:10
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #512	yil@ipgcn1 2022-10-25 13:55:26	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666680910	ipgcn1			0	0	0
+SIM	1666680911	ipgcn1	yil	CM_WITH_APOLLO_RADARSENSOR	0	50.611	0.94479
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 14:56:32
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #512	yil@ipgcn1 2022-10-25 13:55:26	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666680992	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 15:12:38
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #513	yil@ipgcn1 2022-10-25 15:12:24	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666681958	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 15:14:15
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #514	yil@ipgcn1 2022-10-25 15:14:06	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666682055	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 15:15:10
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #515	yil@ipgcn1 2022-10-25 15:15:03	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666682110	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 15:35:55
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #516	yil@ipgcn1 2022-10-25 15:34:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666683355	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 15:41:27
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #516	yil@ipgcn1 2022-10-25 15:34:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666683688	ipgcn1			0	0	0
+SIM	1666683689	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	86.926	0.973993
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 15:45:55
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #517	yil@ipgcn1 2022-10-25 15:45:41	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666683955	ipgcn1			0	0	0
+SIM	1666683957	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	248.16	0.984159
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 15:56:45
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #518	yil@ipgcn1 2022-10-25 15:56:37	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666684605	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 15:58:12
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #519	yil@ipgcn1 2022-10-25 15:58:04	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666684692	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 16:01:44
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #520	yil@ipgcn1 2022-10-25 16:01:26	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666684904	ipgcn1			0	0	0
+SIM	1666684905	ipgcn1	yil	CM_WITH_APOLLO_RADARSENSOR	0	75.735	59.3474
+SIM	1666684983	ipgcn1	yil	CM_WITH_APOLLO_RADARSENSOR	0	127.769	96.0078
+SIM	1666685115	ipgcn1	yil	CM_WITH_APOLLO_RADARSENSOR	0	18.212	16.8118
+SIM	1666685138	ipgcn1	yil	CM_WITH_APOLLO_RADARSENSOR	0	5.256	3.80075
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 16:06:33
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #520	yil@ipgcn1 2022-10-25 16:01:26	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666685193	ipgcn1			0	0	0
+SIM	1666685194	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	74.076	58.2129
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 16:24:16
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #521	yil@ipgcn1 2022-10-25 16:24:06	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666686256	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 16:24:46
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #521	yil@ipgcn1 2022-10-25 16:24:06	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666686286	ipgcn1			0	0	0
+SIM	1666686287	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	187.158	0.0774636
+SIM	1666686486	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	62.199	22.3047
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 16:34:32
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #521	yil@ipgcn1 2022-10-25 16:24:06	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666686872	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 16:35:23
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #521	yil@ipgcn1 2022-10-25 16:24:06	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666686924	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 16:45:34
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #521	yil@ipgcn1 2022-10-25 16:24:06	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666687534	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 16:47:57
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #522	yil@ipgcn1 2022-10-25 16:47:38	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666687677	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 16:49:08
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #524	yil@ipgcn1 2022-10-25 16:49:01	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666687748	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 16:53:07
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #524	yil@ipgcn1 2022-10-25 16:49:01	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666687987	ipgcn1			0	0	0
+SIM	1666687989	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	62.362	0.0137578
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 16:57:29
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #525	yil@ipgcn1 2022-10-25 16:55:24	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666688249	ipgcn1			0	0	0
+SIM	1666688251	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	234.332	0.0137588
+SIM	1666688511	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	18.506	0.0137473
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 17:02:50
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #525	yil@ipgcn1 2022-10-25 16:55:24	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666688570	ipgcn1			0	0	0
+SIM	1666688571	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	74.117	0.0137583
+SIM	1666688656	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	168.325	0.0137588
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 17:18:05
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #525	yil@ipgcn1 2022-10-25 16:55:24	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666689485	ipgcn1			0	0	0
+SIM	1666689487	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	2.11	0.83007
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 17:18:24
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #525	yil@ipgcn1 2022-10-25 16:55:24	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666689504	ipgcn1			0	0	0
+SIM	1666689505	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	37.36	47.3587
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 17:27:54
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #526	yil@ipgcn1 2022-10-25 17:27:45	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666690074	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 17:33:14
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #526	yil@ipgcn1 2022-10-25 17:27:45	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666690394	ipgcn1			0	0	0
+SIM	1666690395	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	28.689	47.397
+SIM	1666690689	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	0.961	0.650622
+SIM	1666690994	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	10.227	41.1689
+SIM	1666691088	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	6.327	26.8037
+SIM	1666691341	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 17:49:52
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #526	yil@ipgcn1 2022-10-25 17:27:45	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666691392	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-25 17:50:20
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #526	yil@ipgcn1 2022-10-25 17:27:45	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666691420	ipgcn1			0	0	0
+SIM	1666691422	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	12.16	46.778
+SIM	1666691448	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	0.974	0.562928
+SIM	1666691492	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	124.906	7.35345
+SIM	1666691738	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	1339.19	2.3814
+SIM	1666693097	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	4.012	0.0487758
+SIM	1666693119	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	1	50.041	36.6906
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 10:37:51
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #526	yil@ipgcn1 2022-10-25 17:27:45	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666751871	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 10:44:01
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #526	yil@ipgcn1 2022-10-25 17:27:45	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666752241	ipgcn1			0	0	0
+SIM	1666752243	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 10:45:01
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #526	yil@ipgcn1 2022-10-25 17:27:45	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666752301	ipgcn1			0	0	0
+SIM	1666752302	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	88.32	0.0591649
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 10:58:50
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #527	yil@ipgcn1 2022-10-26 10:56:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666753130	ipgcn1			0	0	0
+SIM	1666753134	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	60.5	0.0578378
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 11:00:50
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #527	yil@ipgcn1 2022-10-26 10:56:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666753250	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 11:03:29
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #527	yil@ipgcn1 2022-10-26 10:56:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666753409	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 11:54:30
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #527	yil@ipgcn1 2022-10-26 10:56:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666756470	ipgcn1			0	0	0
+SIM	1666756472	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 11:54:56
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #527	yil@ipgcn1 2022-10-26 10:56:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666756496	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 12:01:24
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #527	yil@ipgcn1 2022-10-26 10:56:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666756885	ipgcn1			0	0	0
+SIM	1666756887	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 12:01:43
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #527	yil@ipgcn1 2022-10-26 10:56:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666756903	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 12:06:44
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #527	yil@ipgcn1 2022-10-26 10:56:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666757204	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 14:28:19
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #528	yil@ipgcn1 2022-10-26 14:17:44	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666765699	ipgcn1			0	0	0
+SIM	1666765701	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	4.849	0.840702
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 14:28:40
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #528	yil@ipgcn1 2022-10-26 14:17:44	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666765720	ipgcn1			0	0	0
+SIM	1666765721	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	1276.97	0.0666586
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 15:12:14
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #529	yil@ipgcn1 2022-10-26 15:12:06	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666768334	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 15:13:30
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #531	yil@ipgcn1 2022-10-26 15:13:19	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666768410	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 15:21:15
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #532	yil@ipgcn1 2022-10-26 15:20:51	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666768875	ipgcn1			0	0	0
+SIM	1666768877	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	1	0.121	0.00677235
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 15:21:42
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #532	yil@ipgcn1 2022-10-26 15:20:51	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666768902	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 15:30:33
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #533	yil@ipgcn1 2022-10-26 15:30:11	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666769433	ipgcn1			0	0	0
+SIM	1666769434	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	0	0
+SIM	1666769446	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	96.24	0.977348
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 15:50:05
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #533	yil@ipgcn1 2022-10-26 15:30:11	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666770606	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 16:01:45
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #533	yil@ipgcn1 2022-10-26 15:30:11	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666771305	ipgcn1			0	0	0
+SIM	1666771307	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	269.369	0.0316722
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 16:32:00
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #533	yil@ipgcn1 2022-10-26 15:30:11	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666773120	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 16:32:20
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #533	yil@ipgcn1 2022-10-26 15:30:11	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666773141	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 16:41:03
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #533	yil@ipgcn1 2022-10-26 15:30:11	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666773663	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 16:41:31
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #533	yil@ipgcn1 2022-10-26 15:30:11	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666773691	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 16:50:50
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #533	yil@ipgcn1 2022-10-26 15:30:11	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666774251	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 17:01:17
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #533	yil@ipgcn1 2022-10-26 15:30:11	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666774877	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 17:09:58
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #533	yil@ipgcn1 2022-10-26 15:30:11	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666775398	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 17:20:24
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #533	yil@ipgcn1 2022-10-26 15:30:11	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666776024	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 17:25:32
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #533	yil@ipgcn1 2022-10-26 15:30:11	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666776332	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-26 17:25:58
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #533	yil@ipgcn1 2022-10-26 15:30:11	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666776358	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 15:25:11
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #533	yil@ipgcn1 2022-10-26 15:30:11	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666855511	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 15:26:40
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #533	yil@ipgcn1 2022-10-26 15:30:11	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666855600	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 15:27:37
+
+
+SYSTEM_INFO	CarMaker 11.0 - Car_Generic #111	fh@dagobert.ipg 2022-03-30 10:40:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666855658	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 15:28:41
+
+
+SYSTEM_INFO	CarMaker 11.0 - Car_Generic #111	fh@dagobert.ipg 2022-03-30 10:40:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666855721	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 15:29:34
+
+
+SYSTEM_INFO	CarMaker 11.0 - Car_Generic #111	fh@dagobert.ipg 2022-03-30 10:40:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666855774	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 15:31:12
+
+
+SYSTEM_INFO	CarMaker 11.0 - Car_Generic #111	fh@dagobert.ipg 2022-03-30 10:40:53	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666855872	ipgcn1			0	0	0
+SIM	1666855874	ipgcn1	yil	Examples/BasicFunctions/Sensors/LidarRSI_Countryside	0	6.087	25.5349
+SIM	1666855918	ipgcn1	yil	Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects	1	0	25.5349
+SIM	1666855927	ipgcn1	yil	Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects	0	18	103.897
+SIM	1666856133	ipgcn1	yil	Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects	0	18	103.897
+SIM	1666856179	ipgcn1	yil	Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects	0	4.595	40.5238
+SIM	1666856240	ipgcn1	yil	Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects	0	7.182	52.2585
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 16:31:09
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #534	yil@ipgcn1 2022-10-27 16:20:24	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 16:33:59
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #534	yil@ipgcn1 2022-10-27 16:20:24	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666859639	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 16:47:34
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #535	yil@ipgcn1 2022-10-27 16:40:50	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666860454	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 16:49:32
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #536	yil@ipgcn1 2022-10-27 16:48:41	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666860572	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 16:50:32
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #537	yil@ipgcn1 2022-10-27 16:50:23	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666860632	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 16:52:17
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #538	yil@ipgcn1 2022-10-27 16:52:00	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666860738	ipgcn1			0	0	0
+SIM	1666860740	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	80.583	0.970959
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 16:57:06
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #539	yil@ipgcn1 2022-10-27 16:56:58	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666861026	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 16:58:54
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #540	yil@ipgcn1 2022-10-27 16:58:47	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666861134	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 17:00:44
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #541	yil@ipgcn1 2022-10-27 17:00:35	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666861244	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 17:10:57
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #542	yil@ipgcn1 2022-10-27 17:10:50	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666861857	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 17:32:39
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #542	yil@ipgcn1 2022-10-27 17:10:50	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666863160	ipgcn1			0	0	0
+SIM	1666863161	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	2.348	0.8311
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 18:18:16
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #543	yil@ipgcn1 2022-10-27 18:13:42	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666865896	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 18:19:18
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #544	yil@ipgcn1 2022-10-27 18:19:10	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666865958	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 18:20:52
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #545	yil@ipgcn1 2022-10-27 18:20:44	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666866052	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 18:23:16
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #546	yil@ipgcn1 2022-10-27 18:22:48	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666866196	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-27 18:24:59
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #547	yil@ipgcn1 2022-10-27 18:24:52	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666866299	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 10:46:07
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #549	yil@ipgcn1 2022-10-28 10:45:45	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666925167	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 11:09:52
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #549	yil@ipgcn1 2022-10-28 10:45:45	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666926592	ipgcn1			0	0	0
+SIM	1666926594	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	0.947	0.633699
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 14:46:47
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #551	yil@ipgcn1 2022-10-28 14:43:33	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666939607	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 14:47:15
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #551	yil@ipgcn1 2022-10-28 14:43:33	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666939635	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 14:48:25
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #552	yil@ipgcn1 2022-10-28 14:48:16	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666939705	ipgcn1			0	0	0
+SIM	1666939707	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 14:48:58
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #552	yil@ipgcn1 2022-10-28 14:48:16	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666939738	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 14:50:59
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #553	yil@ipgcn1 2022-10-28 14:50:43	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666939859	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 14:51:38
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #553	yil@ipgcn1 2022-10-28 14:50:43	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666939898	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 14:52:11
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #554	yil@ipgcn1 2022-10-28 14:52:04	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666939931	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 15:35:02
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #555	yil@ipgcn1 2022-10-28 15:34:52	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666942502	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 15:35:35
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #555	yil@ipgcn1 2022-10-28 15:34:52	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666942535	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 15:36:27
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #556	yil@ipgcn1 2022-10-28 15:36:21	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666942587	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 15:38:04
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #558	yil@ipgcn1 2022-10-28 15:37:58	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666942684	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 15:40:25
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #559	yil@ipgcn1 2022-10-28 15:40:19	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666942825	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 15:41:02
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #560	yil@ipgcn1 2022-10-28 15:40:56	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666942862	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 15:43:20
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #561	yil@ipgcn1 2022-10-28 15:43:15	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666943000	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 15:44:43
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #563	yil@ipgcn1 2022-10-28 15:44:31	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666943083	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 16:01:46
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #564	yil@ipgcn1 2022-10-28 15:57:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666944106	ipgcn1			0	0	0
+SIM	1666944107	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 16:02:03
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #564	yil@ipgcn1 2022-10-28 15:57:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666944123	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 16:02:35
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #565	yil@ipgcn1 2022-10-28 16:02:29	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666944155	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 16:12:23
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #565	yil@ipgcn1 2022-10-28 16:02:29	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666944743	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 16:12:52
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #565	yil@ipgcn1 2022-10-28 16:02:29	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666944773	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 16:15:27
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #565	yil@ipgcn1 2022-10-28 16:02:29	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666944927	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 16:33:21
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #565	yil@ipgcn1 2022-10-28 16:02:29	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666946001	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 16:40:17
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #565	yil@ipgcn1 2022-10-28 16:02:29	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666946417	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 16:41:10
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #565	yil@ipgcn1 2022-10-28 16:02:29	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666946471	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 16:44:44
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #565	yil@ipgcn1 2022-10-28 16:02:29	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666946684	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 16:59:01
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #565	yil@ipgcn1 2022-10-28 16:02:29	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666947541	ipgcn1			0	0	0
+SIM	1666947543	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 16:59:13
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #565	yil@ipgcn1 2022-10-28 16:02:29	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666947553	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 17:07:56
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #566	yil@ipgcn1 2022-10-28 17:06:37	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666948078	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 17:15:51
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #566	yil@ipgcn1 2022-10-28 17:06:37	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666948552	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 17:19:58
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #567	yil@ipgcn1 2022-10-28 17:19:46	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666948798	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 17:21:59
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #567	yil@ipgcn1 2022-10-28 17:19:46	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666948920	ipgcn1			0	0	0
+SIM	1666948923	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	13.612	0.869781
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 17:27:45
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #567	yil@ipgcn1 2022-10-28 17:19:46	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666949265	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 17:33:14
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #568	yil@ipgcn1 2022-10-28 17:32:48	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666949594	ipgcn1			0	0	0
+SIM	1666949595	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	4.302	0.83866
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 17:53:16
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #569	yil@ipgcn1 2022-10-28 17:53:01	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666950796	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-28 18:05:02
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #569	yil@ipgcn1 2022-10-28 17:53:01	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1666951502	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 10:35:52
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #569	yil@ipgcn1 2022-10-28 17:53:01	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667183752	ipgcn1			0	0	0
+SIM	1667183754	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	149.091	0.983605
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 10:53:48
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #569	yil@ipgcn1 2022-10-28 17:53:01	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667184828	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 11:01:00
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #569	yil@ipgcn1 2022-10-28 17:53:01	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667185260	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 11:01:56
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #569	yil@ipgcn1 2022-10-28 17:53:01	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667185316	ipgcn1			0	0	0
+SIM	1667185318	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	3.905	0.837159
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 11:02:22
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #569	yil@ipgcn1 2022-10-28 17:53:01	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667185342	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 11:19:44
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #570	yil@ipgcn1 2022-10-31 11:19:12	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667186384	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 11:26:48
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #571	yil@ipgcn1 2022-10-31 11:26:35	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667186808	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 12:06:10
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #572	yil@ipgcn1 2022-10-31 12:05:55	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667189170	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 13:04:56
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #573	yil@ipgcn1 2022-10-31 13:04:45	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667192696	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 14:13:37
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #576	yil@ipgcn1 2022-10-31 14:13:26	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667196817	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 14:15:59
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #578	yil@ipgcn1 2022-10-31 14:15:45	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667196959	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 14:22:41
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #578	yil@ipgcn1 2022-10-31 14:15:45	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667197362	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 14:26:13
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #578	yil@ipgcn1 2022-10-31 14:15:45	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667197573	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 14:27:13
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #578	yil@ipgcn1 2022-10-31 14:15:45	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667197633	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 14:28:36
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #579	yil@ipgcn1 2022-10-31 14:28:25	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667197716	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 14:40:16
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #580	yil@ipgcn1 2022-10-31 14:40:00	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667198416	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 14:44:21
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #580	yil@ipgcn1 2022-10-31 14:40:00	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667198661	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 14:45:32
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #581	yil@ipgcn1 2022-10-31 14:45:17	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667198732	ipgcn1			0	0	0
+SIM	1667198733	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	76.354	0.968535
+SIM	1667198815	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	6.955	0.848287
+SIM	1667198838	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	15.117	0.874189
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 14:51:29
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #581	yil@ipgcn1 2022-10-31 14:45:17	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667199090	ipgcn1			0	0	0
+SIM	1667199091	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 14:51:55
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #581	yil@ipgcn1 2022-10-31 14:45:17	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667199115	ipgcn1			0	0	0
+SIM	1667199117	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	74.892	0.967616
+SIM	1667199222	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	4.674	0.840053
+SIM	1667199240	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	259.563	0.984161
+SIM	1667199505	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	37.745	0.925429
+SIM	1667199557	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	173.625	0.983997
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 15:04:36
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #581	yil@ipgcn1 2022-10-31 14:45:17	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667199876	ipgcn1			0	0	0
+SIM	1667199877	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	34.589	0.919726
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 15:30:21
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #582	yil@ipgcn1 2022-10-31 15:29:42	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667201422	ipgcn1			0	0	0
+SIM	1667201424	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	100.762	0.978588
+SIM	1667201725	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	6.645	0.847197
+SIM	1667201766	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	36.59	0.923389
+SIM	1667201814	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	50.11	0.944143
+SIM	1667202257	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	73.973	0.967016
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 15:46:08
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #582	yil@ipgcn1 2022-10-31 15:29:42	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667202368	ipgcn1			0	0	0
+SIM	1667202370	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	795.817	0.984163
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 16:00:02
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #582	yil@ipgcn1 2022-10-31 15:29:42	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667203202	ipgcn1			0	0	0
+SIM	1667203203	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	408.798	0.984163
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 16:21:20
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #582	yil@ipgcn1 2022-10-31 15:29:42	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667204480	ipgcn1			0	0	0
+SIM	1667204482	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	140.435	0.98331
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 16:27:34
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #582	yil@ipgcn1 2022-10-31 15:29:42	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667204854	ipgcn1			0	0	0
+SIM	1667204855	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	27.182	0.904656
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 16:35:14
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #582	yil@ipgcn1 2022-10-31 15:29:42	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667205314	ipgcn1			0	0	0
+SIM	1667205315	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	31.659	0.914058
+SIM	1667205361	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	46.668	0.939477
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 16:37:13
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #582	yil@ipgcn1 2022-10-31 15:29:42	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667205433	ipgcn1			0	0	0
+SIM	1667205435	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	75.675	0.968114
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 16:41:32
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #582	yil@ipgcn1 2022-10-31 15:29:42	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667205692	ipgcn1			0	0	0
+SIM	1667205694	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	324.566	0.984163
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 16:47:18
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #582	yil@ipgcn1 2022-10-31 15:29:42	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667206038	ipgcn1			0	0	0
+SIM	1667206040	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	73.102	0.96643
+SIM	1667206139	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	407.116	0.984163
+SIM	1667206553	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	47.408	0.940514
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 17:35:02
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #582	yil@ipgcn1 2022-10-31 15:29:42	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667208902	ipgcn1			0	0	0
+SIM	1667208904	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	115.757	0.981367
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 17:38:29
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #582	yil@ipgcn1 2022-10-31 15:29:42	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667209109	ipgcn1			0	0	0
+SIM	1667209111	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	1	84.661	0.972987
+SIM	1667209312	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	1	78.335	0.969713
+SIM	1667209444	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	4.65	0.839963
+SIM	1667209474	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	11.359	0.862889
+SIM	1667209506	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	5.777	0.844097
+SIM	1667209544	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	30.523	0.911759
+SIM	1667209633	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	14.687	0.872945
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 18:00:19
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #583	yil@ipgcn1 2022-10-31 17:56:19	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667210419	ipgcn1			0	0	0
+SIM	1667210420	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	6.003	0.844911
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 18:01:37
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #584	yil@ipgcn1 2022-10-31 18:00:50	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667210497	ipgcn1			0	0	0
+SIM	1667210498	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	7.356	0.849684
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 18:02:56
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #585	yil@ipgcn1 2022-10-31 18:02:49	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667210576	ipgcn1			0	0	0
+SIM	1667210577	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	137.894	0.983197
+SIM	1667210718	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	70.965	0.964924
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 18:07:00
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #586	yil@ipgcn1 2022-10-31 18:06:43	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 18:33:39
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #586	yil@ipgcn1 2022-10-31 18:06:43	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667212419	ipgcn1			0	0	0
+SIM	1667212421	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	25.501	0.900879
+SIM	1667212615	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	1	0	0
+SIM	1667212623	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 18:37:22
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #586	yil@ipgcn1 2022-10-31 18:06:43	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 18:37:43
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #586	yil@ipgcn1 2022-10-31 18:06:43	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 18:37:49
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #586	yil@ipgcn1 2022-10-31 18:06:43	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 18:37:55
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #586	yil@ipgcn1 2022-10-31 18:06:43	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 18:38:08
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #586	yil@ipgcn1 2022-10-31 18:06:43	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667212688	ipgcn1			0	0	0
+SIM	1667212689	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	1	0	0
+SIM	1667212697	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	9.301	0.856262
+SIM	1667212743	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	1	0	0
+SIM	1667212746	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 18:39:12
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #586	yil@ipgcn1 2022-10-31 18:06:43	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-10-31 18:39:19
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #586	yil@ipgcn1 2022-10-31 18:06:43	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 10:42:26
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #587	yil@ipgcn1 2022-11-01 10:37:15	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667270546	ipgcn1			0	0	0
+SIM	1667270547	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	24.79	0.89924
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 10:45:03
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #588	yil@ipgcn1 2022-11-01 10:44:19	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667270703	ipgcn1			0	0	0
+SIM	1667270703	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	10.349	0.859678
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 10:50:27
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #588	yil@ipgcn1 2022-11-01 10:44:19	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667271027	ipgcn1			0	0	0
+SIM	1667271028	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	5.628	0.843558
+SIM	1667271043	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	12.674	0.866956
+SIM	1667271326	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	16.707	0.878686
+SIM	1667271438	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	32.829	0.916366
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 11:13:34
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #589	yil@ipgcn1 2022-11-01 11:13:19	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667272414	ipgcn1			0	0	0
+SIM	1667272414	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	295.86	0.984163
+SIM	1667272914	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	15.5	0.875287
+SIM	1667272944	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	14.768	0.873181
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 11:23:02
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #589	yil@ipgcn1 2022-11-01 11:13:19	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667272982	ipgcn1			0	0	0
+SIM	1667272983	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	245.825	0.984158
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 11:27:44
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #590	yil@ipgcn1 2022-11-01 11:27:37	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667273264	ipgcn1			0	0	0
+SIM	1667273265	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	4.944	0.841054
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 11:28:07
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #590	yil@ipgcn1 2022-11-01 11:27:37	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667273287	ipgcn1			0	0	0
+SIM	1667273288	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	21.45	0.891188
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 11:34:16
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #590	yil@ipgcn1 2022-11-01 11:27:37	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667273656	ipgcn1			0	0	0
+SIM	1667273657	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	97.222	0.977637
+SIM	1667275740	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	390.082	0.984163
+SIM	1667276133	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	211.159	0.984137
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 14:50:27
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #591	yil@ipgcn1 2022-11-01 14:49:42	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667285427	ipgcn1			0	0	0
+SIM	1667285428	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	9.425	0.856671
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 15:08:06
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #592	yil@ipgcn1 2022-11-01 15:07:56	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667286486	ipgcn1			0	0	0
+SIM	1667286486	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	12.274	0.865732
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 15:26:37
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #593	yil@ipgcn1 2022-11-01 15:26:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667287597	ipgcn1			0	0	0
+SIM	1667287598	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	30.678	0.912076
+SIM	1667287665	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	183.318	0.98406
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 15:31:21
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #593	yil@ipgcn1 2022-11-01 15:26:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667287881	ipgcn1			0	0	0
+SIM	1667287882	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	179.746	0.98404
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 16:46:22
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #593	yil@ipgcn1 2022-11-01 15:26:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667292382	ipgcn1			0	0	0
+SIM	1667292383	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	38.081	0.926012
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 16:47:26
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #593	yil@ipgcn1 2022-11-01 15:26:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667292446	ipgcn1			0	0	0
+SIM	1667292447	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	563.158	0.0137588
+SIM	1667293025	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	163.254	0.962743
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 17:00:53
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #593	yil@ipgcn1 2022-11-01 15:26:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667293253	ipgcn1			0	0	0
+SIM	1667293254	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	159.628	0.983831
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 17:05:18
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #593	yil@ipgcn1 2022-11-01 15:26:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667293518	ipgcn1			0	0	0
+SIM	1667293519	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	173.601	0.983997
+SIM	1667293721	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	113.707	0.981084
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 17:26:00
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #593	yil@ipgcn1 2022-11-01 15:26:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667294760	ipgcn1			0	0	0
+SIM	1667294761	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	72.524	0.966032
+SIM	1667295030	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	491.724	0.984163
+SIM	1667295540	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	356.363	0.984163
+SIM	1667295909	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	123.33	0.98221
+SIM	1667296242	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	115.054	0.981273
+SIM	1667296656	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	47.766	0.941009
+SIM	1667296751	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	9.027	0.855355
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 17:59:27
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #593	yil@ipgcn1 2022-11-01 15:26:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667296767	ipgcn1			0	0	0
+SIM	1667296768	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	4.195	0.838257
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 18:00:33
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #593	yil@ipgcn1 2022-11-01 15:26:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667296833	ipgcn1			0	0	0
+SIM	1667296834	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	113.385	0.981038
+SIM	1667296997	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	241.399	0.984157
+SIM	1667297411	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	5.597	0.843445
+SIM	1667297424	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	135.064	0.983054
+SIM	1667297586	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	254.316	0.98416
+SIM	1667297853	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	8.659	0.854126
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 18:19:09
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #593	yil@ipgcn1 2022-11-01 15:26:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667297949	ipgcn1			0	0	0
+SIM	1667297950	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	16.269	0.877463
+SIM	1667298025	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	14.947	0.873699
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-01 18:38:45
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #593	yil@ipgcn1 2022-11-01 15:26:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667299125	ipgcn1			0	0	0
+SIM	1667299126	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	204.126	0.984127
+SIM	1667299351	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	4.17	0.838163
+SIM	1667299381	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	270.745	0.984162
+SIM	1667300081	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	104.382	0.979429
+SIM	1667300207	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	177.864	0.984028
+SIM	1667300434	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	151.17	0.983659
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 11:19:04
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #593	yil@ipgcn1 2022-11-01 15:26:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667359144	ipgcn1			0	0	0
+SIM	1667359145	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	34.418	0.919406
+SIM	1667359682	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	10.625	0.860563
+SIM	1667360830	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	18.181	0.882713
+SIM	1667360865	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	1.429	0.82269
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 11:47:51
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #593	yil@ipgcn1 2022-11-01 15:26:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667360871	ipgcn1			0	0	0
+SIM	1667360872	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	4.236	0.838412
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 11:55:15
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #594	yil@ipgcn1 2022-11-02 11:54:28	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667361315	ipgcn1			0	0	0
+SIM	1667361316	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	12.032	0.864986
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 11:59:02
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #595	yil@ipgcn1 2022-11-02 11:58:51	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667361542	ipgcn1			0	0	0
+SIM	1667361543	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	3.573	0.83589
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 12:10:47
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #596	yil@ipgcn1 2022-11-02 12:10:41	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667362247	ipgcn1			0	0	0
+SIM	1667362248	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	2.078	0.829916
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 13:54:15
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #596	yil@ipgcn1 2022-11-02 12:10:41	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667368455	ipgcn1			0	0	0
+SIM	1667368456	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	13.165	0.868442
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 13:55:00
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #597	yil@ipgcn1 2022-11-02 13:54:44	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667368501	ipgcn1			0	0	0
+SIM	1667368501	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	72.037	0.965692
+SIM	1667368576	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	1.262	0.79252
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 13:56:20
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #597	yil@ipgcn1 2022-11-02 13:54:44	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667368580	ipgcn1			0	0	0
+SIM	1667368581	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	2.22	0.830559
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 13:59:07
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #597	yil@ipgcn1 2022-11-02 13:54:44	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667368747	ipgcn1			0	0	0
+SIM	1667368748	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	10.217	0.859252
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 14:05:36
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #598	yil@ipgcn1 2022-11-02 14:05:30	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667369136	ipgcn1			0	0	0
+SIM	1667369137	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	1.62	0.826966
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 14:09:26
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #599	yil@ipgcn1 2022-11-02 14:08:01	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667369366	ipgcn1			0	0	0
+SIM	1667369367	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	0.944	0.631602
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 14:15:00
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #600	yil@ipgcn1 2022-11-02 14:14:54	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667369700	ipgcn1			0	0	0
+SIM	1667369701	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	11.021	0.861823
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 14:18:13
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #601	yil@ipgcn1 2022-11-02 14:18:07	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667369893	ipgcn1			0	0	0
+SIM	1667369894	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	7.225	0.849229
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 14:19:01
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #602	yil@ipgcn1 2022-11-02 14:18:55	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667369941	ipgcn1			0	0	0
+SIM	1667369942	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	3.146	0.834239
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 14:40:24
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #603	yil@ipgcn1 2022-11-02 14:40:16	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667371224	ipgcn1			0	0	0
+SIM	1667371225	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	3.793	0.836732
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 14:56:04
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #604	yil@ipgcn1 2022-11-02 14:55:58	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667372164	ipgcn1			0	0	0
+SIM	1667372165	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	3.21	0.834488
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 14:57:41
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #605	yil@ipgcn1 2022-11-02 14:57:34	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667372261	ipgcn1			0	0	0
+SIM	1667372262	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	25.282	0.900377
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 15:06:05
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #606	yil@ipgcn1 2022-11-02 14:58:28	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667372765	ipgcn1			0	0	0
+SIM	1667372766	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	25.192	0.90017
+SIM	1667372839	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	99.814	0.978346
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 15:58:44
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #606	yil@ipgcn1 2022-11-02 14:58:28	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667375924	ipgcn1			0	0	0
+SIM	1667375925	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	15.742	0.875976
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 16:00:34
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #606	yil@ipgcn1 2022-11-02 14:58:28	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667376034	ipgcn1			0	0	0
+SIM	1667376034	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	92.806	0.976247
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 16:04:47
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #606	yil@ipgcn1 2022-11-02 14:58:28	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667376287	ipgcn1			0	0	0
+SIM	1667376288	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	171.472	0.983978
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 16:13:03
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #606	yil@ipgcn1 2022-11-02 14:58:28	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667376783	ipgcn1			0	0	0
+SIM	1667376783	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	77.565	0.969265
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 16:25:35
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #606	yil@ipgcn1 2022-11-02 14:58:28	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667377535	ipgcn1			0	0	0
+SIM	1667377536	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	132.295	0.982895
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2022-11-02 16:30:09
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #606	yil@ipgcn1 2022-11-02 14:58:28	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1667377809	ipgcn1			0	0	0
+SIM	1667377810	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	23.668	40.9914
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-29 16:11:15
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #608	yil@ipgcn1 2023-06-29 16:11:01	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688026275	ipgcn1			0	0	0
+SIM	1688026277	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	5.262	0.842224
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-29 16:12:25
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #608	yil@ipgcn1 2023-06-29 16:11:01	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688026345	ipgcn1			0	0	0
+SIM	1688026346	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARRSI	0	341.702	0.984163
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-29 16:21:51
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #609	yil@ipgcn1 2023-06-29 16:18:46	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688026911	ipgcn1			0	0	0
+SIM	1688026913	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	100.647	210.344
+SIM	1688027024	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	37.967	31.8421
+SIM	1688027066	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	10.282	8.27313
+SIM	1688027099	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	6.312	4.88829
+SIM	1688027127	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	3.143	2.2048
+SIM	1688027171	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	1.658	0.907094
+SIM	1688027188	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	369.274	88.7264
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-29 16:33:33
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #610	yil@ipgcn1 2023-06-29 16:33:20	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688027613	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-29 16:35:11
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #611	yil@ipgcn1 2023-06-29 16:34:57	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688027711	ipgcn1			0	0	0
+SIM	1688027713	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	10.402	8.24081
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-29 16:40:12
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #613	yil@ipgcn1 2023-06-29 16:39:55	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688028012	ipgcn1			0	0	0
+SIM	1688028013	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	79.152	66.5066
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-29 16:41:51
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #613	yil@ipgcn1 2023-06-29 16:39:55	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688028111	ipgcn1			0	0	0
+SIM	1688028112	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	7.509	5.88579
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-29 16:43:59
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #614	yil@ipgcn1 2023-06-29 16:43:41	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688028239	ipgcn1			0	0	0
+SIM	1688028240	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	42.318	29.7001
+SIM	1688028288	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	34.046	23.8693
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-29 16:46:34
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #614	yil@ipgcn1 2023-06-29 16:43:41	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688028394	ipgcn1			0	0	0
+SIM	1688028396	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	40.741	25.1331
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-29 16:50:30
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #614	yil@ipgcn1 2023-06-29 16:43:41	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688028630	ipgcn1			0	0	0
+SIM	1688028632	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	624.356	0.645838
+SIM	1688029261	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	312.596	0.0137588
+SIM	1688029701	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	84.442	0.0137585
+SIM	1688030419	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	4.182	0.0137334
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-29 17:20:37
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #614	yil@ipgcn1 2023-06-29 16:43:41	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688030437	ipgcn1			0	0	0
+SIM	1688030438	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	629.519	0.0137588
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-29 17:31:32
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #614	yil@ipgcn1 2023-06-29 16:43:41	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688031092	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-29 17:36:24
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #615	yil@ipgcn1 2023-06-29 17:36:13	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688031384	ipgcn1			0	0	0
+SIM	1688031385	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	771.789	0.88883
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-29 17:51:23
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #615	yil@ipgcn1 2023-06-29 17:36:13	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688032283	ipgcn1			0	0	0
+SIM	1688032285	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	16.948	0.817045
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-29 18:11:44
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #616	yil@ipgcn1 2023-06-29 17:52:07	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688033504	ipgcn1			0	0	0
+SIM	1688033506	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	61.049	0.95652
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-29 18:12:48
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #617	yil@ipgcn1 2023-06-29 18:12:36	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688033568	ipgcn1			0	0	0
+SIM	1688033570	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	13.05	0.829479
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-29 18:13:45
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #618	yil@ipgcn1 2023-06-29 18:13:26	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688033625	ipgcn1			0	0	0
+SIM	1688033627	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	28.37	0.0137521
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-30 10:38:18
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #618	yil@ipgcn1 2023-06-29 18:13:26	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688092698	ipgcn1			0	0	0
+SIM	1688092699	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	42.225	23.4174
+SIM	1688092773	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	103.949	59.786
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-30 10:56:33
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #618	yil@ipgcn1 2023-06-29 18:13:26	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688093793	ipgcn1			0	0	0
+SIM	1688093795	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	38.392	37.1517
+SIM	1688093952	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	48.803	47.6654
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-30 11:03:02
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #618	yil@ipgcn1 2023-06-29 18:13:26	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688094182	ipgcn1			0	0	0
+SIM	1688094183	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	157.511	247.72
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-30 14:20:53
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #620	yil@ipgcn1 2023-06-30 14:16:30	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688106053	ipgcn1			0	0	0
+SIM	1688106054	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_RADAR	0	119.553	0.981826
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-30 14:24:05
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #620	yil@ipgcn1 2023-06-30 14:16:30	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688106245	ipgcn1			0	0	0
+SIM	1688106246	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_RADAR	0	81.735	0.971561
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-30 17:06:19
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #620	yil@ipgcn1 2023-06-30 14:16:30	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688115979	ipgcn1			0	0	0
+SIM	1688115981	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_RADAR	0	9.739	0.8577
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-30 17:07:32
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #621	yil@ipgcn1 2023-06-30 17:07:17	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688116052	ipgcn1			0	0	0
+SIM	1688116053	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_RADAR	0	9.308	0.856285
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-30 17:16:04
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #622	yil@ipgcn1 2023-06-30 17:15:49	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688116564	ipgcn1			0	0	0
+SIM	1688116565	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_RADAR	0	57.096	0.372229
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-30 17:45:06
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #623	yil@ipgcn1 2023-06-30 17:19:52	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688118306	ipgcn1			0	0	0
+SIM	1688118307	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	104.78	36.3093
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-30 17:48:56
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #624	yil@ipgcn1 2023-06-30 17:48:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688118536	ipgcn1			0	0	0
+SIM	1688118537	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-30 17:49:42
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #624	yil@ipgcn1 2023-06-30 17:48:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688118582	ipgcn1			0	0	0
+SIM	1688118583	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-06-30 17:51:59
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #624	yil@ipgcn1 2023-06-30 17:48:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688118720	ipgcn1			0	0	0
+SIM	1688118721	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	34.817	32.4949
+SIM	1688118762	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	59.117	52.3849
+SIM	1688118893	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	31.208	30.6812
+SIM	1688118931	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	24.354	23.8555
+SIM	1688118961	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	49.017	45.1033
+SIM	1688119024	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	377.461	275.117
+SIM	1688119408	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	337.422	247.289
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-03 10:50:12
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #624	yil@ipgcn1 2023-06-30 17:48:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688352612	ipgcn1			0	0	0
+SIM	1688352614	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	147.726	0.983566
+SIM	1688352894	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	6.508	0.846712
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-03 11:02:33
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #624	yil@ipgcn1 2023-06-30 17:48:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688353353	ipgcn1			0	0	0
+SIM	1688353354	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	1	334.723	279.622
+SIM	1688353718	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	1	4.536	12.8781
+SIM	1688353734	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	1	3.546	13.0627
+SIM	1688353751	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	0	0
+SIM	1688353765	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-03 11:09:43
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #624	yil@ipgcn1 2023-06-30 17:48:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688353783	ipgcn1			0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-03 11:16:09
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #624	yil@ipgcn1 2023-06-30 17:48:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688354169	ipgcn1			0	0	0
+SIM	1688354170	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	1	181.079	277.221
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-03 11:25:56
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #624	yil@ipgcn1 2023-06-30 17:48:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688354756	ipgcn1			0	0	0
+SIM	1688354757	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	537.221	246.112
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-03 11:35:08
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #624	yil@ipgcn1 2023-06-30 17:48:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688355308	ipgcn1			0	0	0
+SIM	1688355309	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	10.176	11.4319
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-03 11:37:13
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #624	yil@ipgcn1 2023-06-30 17:48:27	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688355433	ipgcn1			0	0	0
+SIM	1688355434	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	87.171	60.1666
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-03 14:12:47
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #625	yil@ipgcn1 2023-07-03 14:12:17	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688364767	ipgcn1			0	0	0
+SIM	1688364770	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	1	0	0
+SIM	1688364991	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-03 14:19:13
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #626	yil@ipgcn1 2023-07-03 14:18:57	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688365153	ipgcn1			0	0	0
+SIM	1688365155	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-03 14:35:29
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #627	yil@ipgcn1 2023-07-03 14:35:15	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688366129	ipgcn1			0	0	0
+SIM	1688366131	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-03 14:42:00
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #628	yil@ipgcn1 2023-07-03 14:41:49	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688366520	ipgcn1			0	0	0
+SIM	1688366522	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	1	0	0
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-03 14:42:32
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #628	yil@ipgcn1 2023-07-03 14:41:49	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688366552	ipgcn1			0	0	0
+SIM	1688366554	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	53.65	0.948542
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-04 12:05:35
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #629	yil@ipgcn1 2023-07-04 12:05:21	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1688443535	ipgcn1			0	0	0
+SIM	1688443538	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	36.226	0.922735

@@ -1,0 +1,12 @@
+APPLICATION	Car_Generic <insert.your.version.no> #456 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-08-31 14:21:15
+ 
+FIRST_INIT	(internal default used)	2022-08-31 14:24:52
+TIME	0.000
+SIM_END			0s	0m
+IDLE	14:24:52
+		A2:ipgcn1.1 registered
+SIM_START	Examples/BasicFunctions/Sensors/LidarRSI_Countryside	2022-08-31 14:24:53
+TIME	0.068
+ERROR		Caught signal SIGSEGV (11)
+WARNING	Simulation program terminates

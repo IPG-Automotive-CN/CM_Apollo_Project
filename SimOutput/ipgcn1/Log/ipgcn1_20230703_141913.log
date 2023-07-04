@@ -1,0 +1,22 @@
+APPLICATION	Car_Generic <insert.your.version.no> #626 (linux64-11.0)
+COMPILED	yil@ipgcn1 2023-07-03 14:18:57
+ 
+FIRST_INIT	(internal default used)	2023-07-03 14:19:13
+TIME	0.000
+SIM_END			0s	0m
+IDLE	14:19:13
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	2023-07-03 14:19:15
+TIME	0.077
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1688365155
+ERROR		LidarRSI: Graphics adapter unavailable.
+Most likely the graphics adapter is not supported or the NVIDIA driver
+is not installed correctly.
+Refer to Release Notes to check which graphic cards are supported. (-21)
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0s	0m
+TIME	94.396
+SHUTDOWN	CarMaker quick shutdown initiated
+

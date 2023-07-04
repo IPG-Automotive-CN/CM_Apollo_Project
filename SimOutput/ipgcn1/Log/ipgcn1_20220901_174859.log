@@ -1,0 +1,36 @@
+APPLICATION	Car_Generic <insert.your.version.no> #479 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-09-01 16:05:37
+ 
+FIRST_INIT	(internal default used)	2022-09-01 17:48:59
+TIME	0.000
+SIM_END			0s	0m
+IDLE	17:49:00
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARRSI	2022-09-01 17:49:01
+TIME	0.083
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1662025741
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_LIDARRSI
+
+TIME	4.552
+SIM_END		SF_OpenDRIVE_IPGDriver_LIDARRSI	4.549s	0.013734m
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARRSI	2022-09-01 17:49:22
+TIME	0.070
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1662025762
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_LIDARRSI
+
+TIME	53.493
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	56.007
+ERROR		GPUSensor A2:ipgcn1.1: Connection lost
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_LIDARRSI	56.007s	97.9152m
+TIME	64.707
+SHUTDOWN	CarMaker quick shutdown initiated
+

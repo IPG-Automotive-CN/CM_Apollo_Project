@@ -1,0 +1,61 @@
+APPLICATION	Car_Generic <insert.your.version.no> #436 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-08-30 16:47:53
+ 
+FIRST_INIT	(internal default used)	2022-08-30 16:47:59
+TIME	0.000
+SIM_END			0s	0m
+IDLE	16:47:59
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 16:48:00
+TIME	0.072
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	2.627
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2.623s	1.71888m
+TIME	5.704
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 16:48:47
+TIME	0.070
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	12.013
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	12.004s	0.878044m
+TIME	15.196
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 16:49:37
+TIME	0.070
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	26.396
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	26.391s	0.916953m
+TIME	36.955
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 16:51:59
+TIME	0.070
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	49.520
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	49.515s	0.958496m
+SHUTDOWN	CarMaker quick shutdown initiated
+

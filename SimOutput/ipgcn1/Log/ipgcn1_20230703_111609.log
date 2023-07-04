@@ -1,0 +1,24 @@
+APPLICATION	Car_Generic <insert.your.version.no> #624 (linux64-11.0)
+COMPILED	yil@ipgcn1 2023-06-30 17:48:27
+ 
+FIRST_INIT	(internal default used)	2023-07-03 11:16:09
+TIME	0.000
+SIM_END			0s	0m
+IDLE	11:16:09
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	2023-07-03 11:16:10
+TIME	0.070
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1688354170
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR
+
+TIME	180.565
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+ERROR		Embedded FARoadSensor Geo:  xyz (-30.26 205.97 10.29) not found on Road
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	181.079s	277.221m
+TIME	220.945
+SHUTDOWN	CarMaker quick shutdown initiated
+

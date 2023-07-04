@@ -1,0 +1,24 @@
+APPLICATION	Car_Generic <insert.your.version.no> #608 (linux64-11.0)
+COMPILED	yil@ipgcn1 2023-06-29 16:11:01
+ 
+FIRST_INIT	(internal default used)	2023-06-29 16:12:25
+TIME	0.000
+SIM_END			0s	0m
+IDLE	16:12:25
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARRSI	2023-06-29 16:12:26
+TIME	0.068
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1688026346
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_LIDARRSI
+
+WARNING		RSDS: unable to connect (returns -2, No route to host)
+TIME	4.835
+WARNING		RSDS: unable to connect (returns -2, No route to host)
+TIME	341.707
+SIM_END		SF_OpenDRIVE_IPGDriver_LIDARRSI	341.702s	0.984163m
+TIME	344.162
+SHUTDOWN	CarMaker quick shutdown initiated
+

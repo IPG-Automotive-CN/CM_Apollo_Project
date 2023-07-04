@@ -1,0 +1,20 @@
+APPLICATION	Car_Generic <insert.your.version.no> #465 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-08-31 17:54:59
+ 
+FIRST_INIT	(internal default used)	2022-08-31 17:57:45
+TIME	0.000
+SIM_END			0s	0m
+IDLE	17:57:45
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARRSI	2022-08-31 17:57:55
+TIME	0.148
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1661939875
+		GPUSensor A2:ipgcn1.1: Timeout during initialization
+ERROR		One or more GPUSensors not ready in time
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_LIDARRSI	0s	0m
+TIME	6.894
+SHUTDOWN	CarMaker quick shutdown initiated
+

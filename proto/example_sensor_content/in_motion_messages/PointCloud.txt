@@ -1,0 +1,23 @@
+[msgType:apollo.drivers.PointCloud, topic: /apollo/sensor/lidar128/compensator/PointCloud2]
+
+header {
+  sequence_num: 0
+  frame_id: "velodyne"
+}
+frame_id: "lidar128"
+is_dense: false
+point {
+  x: 3.9183607
+  y: -8.0022e-05
+  z: -2.3258414
+  intensity: 9
+  timestamp: 1581164923
+}
+....
+point {
+  x: 3.9096336
+  y: -0.067683987
+  z: -2.3259501
+  intensity: 10
+  timestamp: 1581164923
+}

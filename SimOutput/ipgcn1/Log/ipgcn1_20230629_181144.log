@@ -1,0 +1,21 @@
+APPLICATION	Car_Generic <insert.your.version.no> #616 (linux64-11.0)
+COMPILED	yil@ipgcn1 2023-06-29 17:52:07
+ 
+FIRST_INIT	(internal default used)	2023-06-29 18:11:44
+TIME	0.000
+WARNING		RSDS: unable to connect (returns -2, Connection refused)
+SIM_END			0s	0m
+IDLE	18:11:44
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2023-06-29 18:11:46
+TIME	0.075
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+TIME	61.054
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	61.049s	0.95652m
+SHUTDOWN	CarMaker quick shutdown initiated
+

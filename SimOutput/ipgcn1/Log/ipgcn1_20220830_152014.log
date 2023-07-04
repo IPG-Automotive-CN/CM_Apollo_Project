@@ -1,0 +1,98 @@
+APPLICATION	Car_Generic <insert.your.version.no> #427 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-08-30 15:18:48
+ 
+FIRST_INIT	(internal default used)	2022-08-30 15:20:15
+TIME	0.000
+SIM_END			0s	0m
+IDLE	15:20:15
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 15:20:16
+TIME	0.079
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	8.588
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	8.585s	0.00252363m
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 15:20:58
+TIME	0.070
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	3.765
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	3.762s	15.7952m
+TIME	32.856
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 15:26:08
+TIME	0.070
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	42.185
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	42.182s	75.4199m
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 15:28:59
+TIME	0.070
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	121.173
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	121.17s	75.5259m
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 15:37:14
+TIME	0.070
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	64.066
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	64.063s	78.7821m
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 15:41:32
+TIME	0.068
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	26.691
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	57.148
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	57.145s	239.097m
+TIME	282.300
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 16:22:52
+TIME	0.070
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	36.525
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	52.429
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	52.424s	109.766m

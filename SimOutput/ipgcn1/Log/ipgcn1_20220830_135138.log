@@ -1,0 +1,43 @@
+APPLICATION	Car_Generic <insert.your.version.no> #423 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-08-30 11:57:48
+ 
+FIRST_INIT	(internal default used)	2022-08-30 13:51:38
+TIME	0.000
+SIM_END			0s	0m
+IDLE	13:51:38
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 13:51:40
+TIME	0.078
+ERROR		No entry 'Sensor.FSpace.0.name', file 'Data/Vehicle/Demo_Jaguar_XType_CM11'
+		Name: (null)
+ERROR		No entry 'Sensor.FSpace.0.UpdRate', file 'Data/Vehicle/Demo_Jaguar_XType_CM11'
+		SensorCycleTime: -2147483648 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0s	0m
+TIME	5.752
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 13:52:38
+TIME	0.070
+ERROR		No entry 'Sensor.FSpace.0.name', file 'Data/Vehicle/Demo_Jaguar_XType_CM11'
+		Name: (null)
+ERROR		No entry 'Sensor.FSpace.0.UpdRate', file 'Data/Vehicle/Demo_Jaguar_XType_CM11'
+		SensorCycleTime: -2147483648 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0s	0m
+TIME	39.792
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 13:59:16
+TIME	0.070
+ERROR		No entry 'Sensor.FSpace.0.name', file 'Data/Vehicle/Demo_Jaguar_XType_CM11'
+		Name: (null)
+ERROR		No entry 'Sensor.FSpace.0.UpdRate', file 'Data/Vehicle/Demo_Jaguar_XType_CM11'
+		SensorCycleTime: -2147483648 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0s	0m
+TIME	31.358
+SHUTDOWN	CarMaker quick shutdown initiated
+

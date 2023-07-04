@@ -1,0 +1,35 @@
+APPLICATION	Car_Generic <insert.your.version.no> #465 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-08-31 17:54:59
+ 
+FIRST_INIT	(internal default used)	2022-08-31 18:18:14
+TIME	0.000
+SIM_END			0s	0m
+IDLE	18:18:15
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARRSI	2022-08-31 18:18:16
+TIME	0.080
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1661941096
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_LIDARRSI
+
+TIME	23.475
+SIM_END		SF_OpenDRIVE_IPGDriver_LIDARRSI	23.472s	0.910026m
+		A4:ipgcn1.1 registered
+TIME	0.004
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARRSI	2022-08-31 18:18:49
+TIME	0.076
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1661941129
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_LIDARRSI
+
+TIME	261.121
+ERROR		GPUSensor A4:ipgcn1.1: Connection lost
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_LIDARRSI	261.121s	1.00094m
+SHUTDOWN	CarMaker quick shutdown initiated
+

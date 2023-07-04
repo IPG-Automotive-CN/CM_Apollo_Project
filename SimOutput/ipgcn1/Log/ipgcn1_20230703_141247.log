@@ -1,0 +1,31 @@
+APPLICATION	Car_Generic <insert.your.version.no> #625 (linux64-11.0)
+COMPILED	yil@ipgcn1 2023-07-03 14:12:17
+ 
+FIRST_INIT	(internal default used)	2023-07-03 14:12:47
+TIME	0.000
+SIM_END			0s	0m
+IDLE	14:12:48
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2023-07-03 14:12:50
+TIME	0.075
+		Name: CameraRSI_Sensor0
+ERROR		No entry 'Sensor.1.UpdRate', file 'Data/Vehicle/Demo_Jaguar_XType_CM11_CameraRSI'
+		SensorCycleTime: -2147483648 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_CameraRSI	0s	0m
+TIME	22.171
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	2023-07-03 14:16:31
+TIME	0.068
+		Name: RadarL
+ERROR		No entry 'Sensor.1.UpdRate', file 'Data/Vehicle/Demo_Jaguar_XType_CM11_LIDARRSIandradar'
+		SensorCycleTime: -2147483648 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1688364991
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0s	0m
+TIME	13.274
+SHUTDOWN	CarMaker quick shutdown initiated
+

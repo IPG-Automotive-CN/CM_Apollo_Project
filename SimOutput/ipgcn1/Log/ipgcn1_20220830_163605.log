@@ -1,0 +1,14 @@
+APPLICATION	Car_Generic <insert.your.version.no> #429 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-08-30 16:35:49
+ 
+FIRST_INIT	(internal default used)	2022-08-30 16:36:05
+TIME	0.000
+SIM_END			0s	0m
+IDLE	16:36:06
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 16:36:07
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	54.725
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	54.722s	0.965126m

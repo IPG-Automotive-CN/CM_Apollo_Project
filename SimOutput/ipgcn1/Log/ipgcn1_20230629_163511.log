@@ -1,0 +1,23 @@
+APPLICATION	Car_Generic <insert.your.version.no> #611 (linux64-11.0)
+COMPILED	yil@ipgcn1 2023-06-29 16:34:57
+ 
+FIRST_INIT	(internal default used)	2023-06-29 16:35:11
+TIME	0.000
+SIM_END			0s	0m
+IDLE	16:35:12
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2023-06-29 16:35:13
+TIME	0.075
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+WARNING		RSDS: unable to connect (returns -2, No route to host)
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+WARNING		CameraRSI: VDS client not running on simulation start. (-60)
+WARNING		RSDS: unable to connect (returns -2, No route to host)
+TIME	10.407
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	10.402s	8.24081m
+SHUTDOWN	CarMaker quick shutdown initiated
+

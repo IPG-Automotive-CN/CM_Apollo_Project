@@ -1,0 +1,22 @@
+APPLICATION	Car_Generic <insert.your.version.no> #441 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-08-30 17:00:22
+ 
+FIRST_INIT	(internal default used)	2022-08-30 17:01:06
+TIME	0.000
+SIM_END			0s	0m
+IDLE	17:01:07
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 17:01:08
+TIME	0.076
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	6.249
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	6.241s	0.858413m
+SHUTDOWN	CarMaker quick shutdown initiated
+

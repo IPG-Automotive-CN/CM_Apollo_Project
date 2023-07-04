@@ -1,0 +1,45 @@
+[msgType:apollo.canbus.Chassis, topic: /apollo/canbus/chassis]
+
+engine_started: true
+engine_rpm: 799.99426
+speed_mps: 0.011055646
+odometer_m: 0.0
+fuel_range_m: 0
+throttle_percentage: 0.0
+brake_percentage: 100.0
+steering_percentage: -0.0
+parking_brake: false
+high_beam_signal: false
+low_beam_signal: false
+left_turn_signal: false
+right_turn_signal: false
+wiper: false
+driving_mode: COMPLETE_AUTO_DRIVE
+gear_location: GEAR_DRIVE
+header {
+  timestamp_sec: 1581164911.1505919
+  module_name: "chassis"
+  sequence_num: 0
+}
+chassis_gps {
+  latitude: 0.0
+  longitude: 0.0
+  gps_valid: false
+  year: 1970
+  month: 1
+  day: 1
+  hours: 0
+  minutes: 0
+  seconds: 0
+  compass_direction: 270.0
+  pdop: 0.1
+  is_gps_fault: false
+  is_inferred: false
+  altitude: 0.0
+  heading: 269.9490661621094
+  hdop: 0.1
+  vdop: 0.1
+  quality: FIX_3D
+  num_satellites: 15
+  gps_speed: 0.01105564646422863
+}

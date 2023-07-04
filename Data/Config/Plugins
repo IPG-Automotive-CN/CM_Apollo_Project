@@ -1,0 +1,27 @@
+#INFOFILE1.1 - Do not remove this line!
+FileIdent = CarMaker-Plugins 1
+FileCreator = CarMaker 11.0
+<Unspecified>.OSMPCNetworkProxy = 1
+<Unspecified>.OSMPCNetworkProxy.Info = OSMPCNetworkProxy
+<Unspecified>.OSMPCNetworkProxy.Tags =
+Generic.OSMPDummySensor_ID1 = 1
+Generic.OSMPDummySensor_ID1.Info = OSMPDummySensor_ID1
+Generic.OSMPDummySensor_ID1.Tags =
+Environment.Generic =
+Environment.Generic.Info =
+Environment.Generic.Tags =
+Generic.OSMPCNetworkProxy = 1
+Generic.OSMPCNetworkProxy.Info = OSMPCNetworkProxy
+Generic.OSMPCNetworkProxy.Tags =
+VhclOperator.IPGOperator =
+VhclOperator.IPGOperator.Info =
+VhclOperator.IPGOperator.Tags =
+Generic.OSMPDummySensor_ID0 = 1
+Generic.OSMPDummySensor_ID0.Info = OSMPDummySensor_ID0
+Generic.OSMPDummySensor_ID0.Tags =
+Generic.OSMPDummySensor_ID2 = 1
+Generic.OSMPDummySensor_ID2.Info = OSMPDummySensor_ID2
+Generic.OSMPDummySensor_ID2.Tags =
+HydBrakeSystem.HydESP = 3
+HydBrakeSystem.HydESP.Info =
+HydBrakeSystem.HydESP.Tags =

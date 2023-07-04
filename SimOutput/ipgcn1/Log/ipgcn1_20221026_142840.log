@@ -1,0 +1,32 @@
+APPLICATION	Car_Generic <insert.your.version.no> #528 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-10-26 14:17:44
+ 
+WARNING		/opt/ipg/etc/Licenses: Problem found in license file
+		> Line 49: duplicate license ignored (previous line 41)
+		> Line 65: duplicate license ignored (previous line 8)
+FIRST_INIT	(internal default used)	2022-10-26 14:28:40
+TIME	0.000
+SIM_END			0s	0m
+IDLE	14:28:41
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	2022-10-26 14:28:41
+TIME	0.074
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1666765721
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR
+
+TIME	1276.974
+SIM_END		SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	1276.97s	0.0666586m
+TIME	1316.237
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	2022-10-26 14:56:36
+TIME	0.072
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1666767396
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR
+

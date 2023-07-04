@@ -1,0 +1,9 @@
+[msgType:apollo.drivers.gnss.InsStat, topic: /apollo/sensor/gnss/ins_stat]
+
+header {
+  timestamp_sec: 1581164944.382252
+  sequence_num: 0
+}
+ins_status: 3
+pos_type: 56
+

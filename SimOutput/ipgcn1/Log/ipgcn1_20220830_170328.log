@@ -1,0 +1,20 @@
+APPLICATION	Car_Generic <insert.your.version.no> #443 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-08-30 17:03:14
+ 
+FIRST_INIT	(internal default used)	2022-08-30 17:03:29
+TIME	0.000
+SIM_END			0s	0m
+IDLE	17:03:29
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 17:03:30
+TIME	0.080
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	10.962
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	10.957s	0.0113681m

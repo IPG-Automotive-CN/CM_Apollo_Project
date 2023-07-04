@@ -1,0 +1,17 @@
+[msgType:apollo.drivers.gnss.Imu, topic: /apollo/sensor/gnss/imu]
+
+header {
+  timestamp_sec: 1581164922.2270858
+}
+measurement_time: 1581164922.2270858
+measurement_span: 0.0099999998
+linear_acceleration {
+  x: -3.939852376788622e-06
+  y: 2.001860411837697e-05
+  z: 9.807412147521973
+}
+angular_velocity {
+  x: -5.469143502523366e-07
+  y: -3.0195212730177445e-07
+  z: 2.7911076228015474e-12
+}

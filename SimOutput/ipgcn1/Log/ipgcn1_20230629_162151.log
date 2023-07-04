@@ -1,0 +1,98 @@
+APPLICATION	Car_Generic <insert.your.version.no> #609 (linux64-11.0)
+COMPILED	yil@ipgcn1 2023-06-29 16:18:46
+ 
+FIRST_INIT	(internal default used)	2023-06-29 16:21:51
+TIME	0.000
+SIM_END			0s	0m
+IDLE	16:21:52
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2023-06-29 16:21:53
+TIME	0.068
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+WARNING		RSDS: unable to connect (returns -2, No route to host)
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+WARNING		CameraRSI: VDS client not running on simulation start. (-60)
+WARNING		RSDS: unable to connect (returns -2, No route to host)
+TIME	100.652
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	100.647s	210.344m
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2023-06-29 16:23:44
+TIME	0.070
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+WARNING		CameraRSI: VDS client not running on simulation start. (-60)
+WARNING		RSDS: unable to connect (returns -2, No route to host)
+TIME	37.972
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	37.967s	31.8421m
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2023-06-29 16:24:26
+TIME	0.068
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+WARNING		CameraRSI: VDS client not running on simulation start. (-60)
+WARNING		RSDS: unable to connect (returns -2, No route to host)
+TIME	10.287
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	10.282s	8.27313m
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2023-06-29 16:24:59
+TIME	0.068
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+WARNING		CameraRSI: VDS client not running on simulation start. (-60)
+WARNING		RSDS: unable to connect (returns -2, No route to host)
+TIME	6.317
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	6.312s	4.88829m
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2023-06-29 16:25:27
+TIME	0.068
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+WARNING		CameraRSI: VDS client not running on simulation start. (-60)
+WARNING		RSDS: unable to connect (returns -2, No route to host)
+TIME	3.148
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	3.143s	2.2048m
+TIME	6.949
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2023-06-29 16:26:11
+TIME	0.068
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+WARNING		CameraRSI: VDS client not running on simulation start. (-60)
+WARNING		RSDS: unable to connect (returns -2, No route to host)
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	1.658s	0.907094m
+TIME	2.808
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2023-06-29 16:26:28
+TIME	0.068
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+WARNING		CameraRSI: VDS client not running on simulation start. (-60)
+WARNING		RSDS: unable to connect (returns -2, No route to host)
+TIME	94.375
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	369.279
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	369.274s	88.7264m
+SHUTDOWN	CarMaker quick shutdown initiated
+
