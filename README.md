@@ -25,20 +25,7 @@ It is provided as-is with no warranties, express or implied.
 9. Running CarMaker on a different host from apollo is recommanded if you are using lidarRSI or CameraRSI, because it is not stable to run Apollo and CarMaker physical sensor model at the same time with limited GPU resources. You can set the server ip by editing the CarMaker infofile, which named "SimParameter" and located in "./Data/Config", usage:  "Apollo_Server_Ip = <ip address>"
 
 
-  You can input your own Apollo server IP by editing CarMaker project configuration file "SimParameter". add your own IP"Apollo_Server_Ip" in  
 
-# Known issues in this software
-*Localization* 
-- Jerky location within Apollo. This issue would be fixed by updating the IMU accelerometer values and making the transform from Long/Lat 
-  coordinates to Eastings/Northings adaptative around the map.
-
-*Lidar*
-- Field of view is too narrow with the field of view used within the CarMaker TestRun
-
-*Controls*
-- *Update*: Apollo now communicates control commands (accelerator, brakes, steering). This, however, if it has worked in a previous version of the software which used a different architecture, we notice that Apollo often fails to provide a reference trajectory. We suspect that could be due to IMU data/GPS data inconsitency (see above). 
-
-6 February 2020
+4 July 2023
 
 
-(c) 2020 CavPoint
