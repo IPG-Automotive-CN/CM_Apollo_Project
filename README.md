@@ -12,7 +12,7 @@ It is provided as-is with no warranties, express or implied.
 
 
 # Usage Instructions
-1. Install Apollo 7.0 (CarMaker version) and build and run the Apollo containers, run the Apollo bridge and open the Apollo Dreamview page
+1. Install Apollo 7.0 (CarMaker version) and build and run the Apollo containers, run the Apollo bridge and open the Apollo Dreamview page https://github.com/IPG-Automotive-CN/Apollo7.0-CarMaker
 2. Download and install the version 3.11.4 of Protobuf https://github.com/protocolbuffers/protobuf/releases
 3. Run the script `generate_protobufs.sh`. This should generate in the src folder : CarMaker.linux64
 4. Open CarMaker and make the carmaker-bridge repository the CarMaker Project folder.
