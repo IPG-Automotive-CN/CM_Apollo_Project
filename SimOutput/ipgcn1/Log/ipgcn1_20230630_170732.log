@@ -1,0 +1,23 @@
+APPLICATION	Car_Generic <insert.your.version.no> #621 (linux64-11.0)
+COMPILED	yil@ipgcn1 2023-06-30 17:07:17
+ 
+FIRST_INIT	(internal default used)	2023-06-30 17:07:32
+TIME	0.000
+WARNING		RSDS: unable to connect (returns -2, Connection refused)
+SIM_END			0s	0m
+IDLE	17:07:32
+SIM_START	SF_OpenDRIVE_IPGDriver_RADAR	2023-06-30 17:07:33
+TIME	0.068
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+WARNING		RSDS: unable to connect (returns -2, Connection refused)
+		Current random seed value = 1688116053
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_RADAR
+
+TIME	9.313
+SIM_END		SF_OpenDRIVE_IPGDriver_RADAR	9.308s	0.856285m
+TIME	57.152
+SHUTDOWN	CarMaker quick shutdown initiated
+

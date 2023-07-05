@@ -1,0 +1,37 @@
+APPLICATION	Car_Generic <insert.your.version.no> #472 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-09-01 15:06:36
+ 
+FIRST_INIT	(internal default used)	2022-09-01 15:21:36
+TIME	0.000
+SIM_END			0s	0m
+IDLE	15:21:37
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARRSI	2022-09-01 15:21:37
+TIME	0.131
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1662016897
+		GPUSensor A2:ipgcn1.1: Timeout during initialization
+ERROR		One or more GPUSensors not ready in time
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_LIDARRSI	0s	0m
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARRSI	2022-09-01 15:21:42
+TIME	0.072
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1662016902
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_LIDARRSI
+
+TIME	11.603
+SIM_END		SF_OpenDRIVE_IPGDriver_LIDARRSI	11.6s	0.876757m
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARRSI	2022-09-01 15:21:59
+TIME	0.070
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1662016919
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_LIDARRSI
+

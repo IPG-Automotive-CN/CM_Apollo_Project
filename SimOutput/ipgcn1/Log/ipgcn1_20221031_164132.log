@@ -1,0 +1,24 @@
+APPLICATION	Car_Generic <insert.your.version.no> #582 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-10-31 15:29:42
+ 
+WARNING		/opt/ipg/etc/Licenses: Problem found in license file
+		> Line 49: duplicate license ignored (previous line 41)
+		> Line 65: duplicate license ignored (previous line 8)
+FIRST_INIT	(internal default used)	2022-10-31 16:41:32
+TIME	0.000
+WARNING		RSDS: unable to connect (returns -2, Connection refused)
+SIM_END			0s	0m
+IDLE	16:41:33
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2022-10-31 16:41:34
+TIME	0.077
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+TIME	324.579
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	324.566s	0.984163m
+SHUTDOWN	CarMaker quick shutdown initiated
+

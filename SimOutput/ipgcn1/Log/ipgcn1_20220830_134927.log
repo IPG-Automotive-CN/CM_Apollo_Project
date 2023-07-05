@@ -1,0 +1,11 @@
+APPLICATION	Car_Generic <insert.your.version.no> #423 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-08-30 11:57:48
+ 
+ERROR		Unable to obtain CarMaker license: license server timeout (-11)
+		System: ipgcn1 ether 50:eb:f6:30:54:fe
+		License file: /opt/ipg/etc/Licenses
+		
+ERROR		FATAL ERROR - Application stopped
+		Eliminate the error and restart the application
+SHUTDOWN	CarMaker quick shutdown initiated
+

@@ -1,0 +1,17 @@
+APPLICATION	Car_Generic <insert.your.version.no> #469 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-09-01 11:02:23
+ 
+FIRST_INIT	(internal default used)	2022-09-01 11:14:26
+TIME	0.000
+SIM_END			0s	0m
+IDLE	11:14:27
+TIME	2.214
+WARNING		Sending connect request failed.
+WARNING		Could not connect to ipgcn1:11021
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARRSI	2022-09-01 11:14:59
+TIME	0.001
+WARNING		TestRun start aborted because of state (SimCore.State=End)
+ERROR		No GCS-Coordinates reference entered! Please enter a reference value for lat, long and height.
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_LIDARRSI	0s	0m
+SHUTDOWN	CarMaker quick shutdown initiated
+

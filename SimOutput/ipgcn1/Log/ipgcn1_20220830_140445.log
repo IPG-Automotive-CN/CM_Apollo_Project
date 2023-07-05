@@ -1,0 +1,129 @@
+APPLICATION	Car_Generic <insert.your.version.no> #424 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-08-30 14:04:39
+ 
+FIRST_INIT	(internal default used)	2022-08-30 14:04:45
+TIME	0.000
+SIM_END			0s	0m
+IDLE	14:04:45
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 14:04:47
+TIME	0.074
+		Name: VehSensor_0
+ERROR		No entry 'Sensor.1.UpdRate', file 'Data/Vehicle/Demo_Jaguar_XType_CM11'
+		SensorCycleTime: -2147483648 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0s	0m
+TIME	16.364
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 14:07:31
+TIME	0.068
+		Name: VehSensor_0
+ERROR		No entry 'Sensor.1.UpdRate', file 'Data/Vehicle/Demo_Jaguar_XType_CM11'
+		SensorCycleTime: -2147483648 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0s	0m
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 14:07:48
+TIME	0.068
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	5.866
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	5.863s	0.00546237m
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 14:08:32
+TIME	0.070
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	3.571
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	3.568s	0.00487344m
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 14:09:00
+TIME	0.068
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	2.695
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2.69s	0.00463832m
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 14:09:15
+TIME	0.018
+ERROR		AccelCtrl.ACC: no ObjectSensor found with the name 'RadarL'
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0s	0.00463832m
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 14:09:29
+TIME	0.068
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	4.451
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	4.448s	0.00510362m
+TIME	7.140
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 14:10:17
+TIME	0.068
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	2.943
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2.94s	0.00470589m
+TIME	8.432
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 14:11:28
+TIME	0.068
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	1.024s	0.00398939m
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 14:11:44
+TIME	0.070
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	10.863
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	10.86s	0.00662734m
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 14:12:32
+TIME	0.070
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	1.417s	0.00425892m
+SHUTDOWN	CarMaker quick shutdown initiated
+

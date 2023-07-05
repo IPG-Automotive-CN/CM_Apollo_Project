@@ -1,0 +1,37 @@
+APPLICATION	Car_Generic <insert.your.version.no> #630 (linux64-11.0)
+COMPILED	yil@ipgcn1 2023-07-04 14:17:24
+ 
+FIRST_INIT	(internal default used)	2023-07-05 12:03:50
+TIME	0.000
+SIM_END			0s	0m
+IDLE	12:03:51
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2023-07-05 12:03:53
+TIME	0.068
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+TIME	9.572
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	9.567s	0.857137m
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	2023-07-05 12:04:22
+TIME	0.068
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1688529862
+TIME	4.084
+SIM_END		SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0s	0m
+TIME	6.229
+WARNING		Sending connect request failed.
+WARNING		Could not connect to ipgcn1:11021
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	2023-07-05 12:05:34
+TIME	0.238
+ERROR		GPUSensor: Instance 1 has not registered with the SimProg
+ERROR		SensorCluster: Could not get GPUSensor ID Mapping.
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0s	0m
+TIME	140.215
+SHUTDOWN	CarMaker quick shutdown initiated
+

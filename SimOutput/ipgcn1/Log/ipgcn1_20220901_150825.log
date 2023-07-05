@@ -1,0 +1,12 @@
+APPLICATION	Car_Generic <insert.your.version.no> #472 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-09-01 15:06:36
+ 
+FIRST_INIT	(internal default used)	2022-09-01 15:08:25
+TIME	0.000
+SIM_END			0s	0m
+IDLE	15:08:26
+TIME	5.722
+WARNING		Sending connect request failed.
+WARNING		Could not connect to ipgcn1:11021
+SHUTDOWN	CarMaker quick shutdown initiated
+

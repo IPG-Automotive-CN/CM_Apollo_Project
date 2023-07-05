@@ -1,0 +1,20 @@
+APPLICATION	Car_Generic <insert.your.version.no> #470 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-09-01 12:10:17
+ 
+FIRST_INIT	(internal default used)	2022-09-01 14:09:11
+TIME	0.000
+SIM_END			0s	0m
+IDLE	14:09:11
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-09-01 14:09:12
+TIME	0.076
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	88.895
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.

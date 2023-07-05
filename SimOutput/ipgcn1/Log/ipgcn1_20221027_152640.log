@@ -1,0 +1,13 @@
+APPLICATION	Car_Generic <insert.your.version.no> #533 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-10-26 15:30:11
+ 
+WARNING		/opt/ipg/etc/Licenses: Problem found in license file
+		> Line 49: duplicate license ignored (previous line 41)
+		> Line 65: duplicate license ignored (previous line 8)
+FIRST_INIT	(internal default used)	2022-10-27 15:26:40
+TIME	0.000
+SIM_END			0s	0m
+IDLE	15:26:41
+TIME	5.642
+SHUTDOWN	CarMaker quick shutdown initiated
+

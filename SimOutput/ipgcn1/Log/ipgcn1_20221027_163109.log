@@ -1,0 +1,14 @@
+APPLICATION	Car_Generic <insert.your.version.no> #534 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-10-27 16:20:24
+ 
+WARNING		/opt/ipg/etc/Licenses: Problem found in license file
+		> Line 49: duplicate license ignored (previous line 41)
+		> Line 65: duplicate license ignored (previous line 8)
+ERROR		Unable to obtain CarMaker license: too many licenses in use (-17)
+		System: ipgcn1 ether 98:ee:cb:a4:50:d0
+		License file: /opt/ipg/etc/Licenses
+		
+ERROR		FATAL ERROR - Application stopped
+		Eliminate the error and restart the application
+SHUTDOWN	CarMaker quick shutdown initiated
+

@@ -1,0 +1,43 @@
+APPLICATION	Car_Generic <insert.your.version.no> #581 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-10-31 14:45:17
+ 
+WARNING		/opt/ipg/etc/Licenses: Problem found in license file
+		> Line 49: duplicate license ignored (previous line 41)
+		> Line 65: duplicate license ignored (previous line 8)
+FIRST_INIT	(internal default used)	2022-10-31 14:45:32
+TIME	0.000
+WARNING		RSDS: unable to connect (returns -2, Connection refused)
+SIM_END			0s	0m
+IDLE	14:45:32
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2022-10-31 14:45:33
+TIME	0.077
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+TIME	76.359
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	76.354s	0.968535m
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2022-10-31 14:46:55
+TIME	0.068
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+TIME	6.958
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	6.955s	0.848287m
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2022-10-31 14:47:18
+TIME	0.068
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+TIME	15.380
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	15.117s	0.874189m
+WARNING		RSDS: unable to connect (returns -2, Connection refused)

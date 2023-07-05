@@ -1,0 +1,19 @@
+APPLICATION	Car_Generic <insert.your.version.no> #471 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-09-01 14:19:30
+ 
+FIRST_INIT	(internal default used)	2022-09-01 15:03:18
+TIME	0.000
+SIM_END			0s	0m
+IDLE	15:03:19
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARRSI	2022-09-01 15:03:20
+TIME	0.074
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1662015800
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_LIDARRSI
+
+TIME	76.265
+SIM_END		SF_OpenDRIVE_IPGDriver_LIDARRSI	76.262s	0.984475m

@@ -1,0 +1,142 @@
+APPLICATION	Car_Generic <insert.your.version.no> #424 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-08-30 14:04:39
+ 
+FIRST_INIT	(internal default used)	2022-08-30 14:50:10
+TIME	0.000
+SIM_END			0s	0m
+IDLE	14:50:11
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 14:50:11
+TIME	0.072
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	16.560
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	16.557s	0.00383864m
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 14:51:21
+TIME	0.070
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	19.808
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	19.805s	0.0031038m
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 14:52:44
+TIME	0.070
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	11.577
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	11.574s	73.2263m
+TIME	14.200
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 14:54:00
+TIME	0.072
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	1.627s	4.28072m
+TIME	5.893
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 14:54:54
+TIME	0.070
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	12.305
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	20.292
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	20.289s	141.04m
+TIME	47.339
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 15:00:48
+TIME	0.070
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	12.677
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	47.766
+ERROR		Embedded FARoadSensor Geo:  xyz (241.63 3.38 10.16) not found on Road
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	47.766s	348.942m
+TIME	54.488
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 15:05:08
+TIME	0.018
+ERROR		GNavSensor: Rinex file: "Data/Sensor/EphemRinex/rinex_2019/brdc0010.19n" doesn't exist
+ERROR		GNavSensor: Can't open file "Data/Sensor/EphemRinex/rinex_2019/brdc0010.19n". 
+ERROR		GNavSensor: Can't open file "Data/Sensor/EphemRinex/rinex_2019/brdc0010.19n". 
+ERROR		GNavSensor: Can't get parameters for GNavSensor
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0s	348.942m
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 15:05:19
+TIME	0.018
+ERROR		GNavSensor: Rinex file: "Data/Sensor/EphemRinex/rinex_2019/brdc0010.19n" doesn't exist
+ERROR		GNavSensor: Can't open file "Data/Sensor/EphemRinex/rinex_2019/brdc0010.19n". 
+ERROR		GNavSensor: Can't open file "Data/Sensor/EphemRinex/rinex_2019/brdc0010.19n". 
+ERROR		GNavSensor: Can't get parameters for GNavSensor
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0s	0m
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 15:05:36
+TIME	0.018
+ERROR		GNavSensor: Rinex file: "Data/Sensor/EphemRinex/rinex_2019/brdc0010.19n" doesn't exist
+ERROR		GNavSensor: Can't open file "Data/Sensor/EphemRinex/rinex_2019/brdc0010.19n". 
+ERROR		GNavSensor: Can't open file "Data/Sensor/EphemRinex/rinex_2019/brdc0010.19n". 
+ERROR		GNavSensor: Can't get parameters for GNavSensor
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0s	0m
+TIME	5.786
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 15:06:34
+TIME	0.018
+ERROR		GNavSensor: Rinex file: "Data/Sensor/EphemRinex/rinex_2019/brdc0010.19n" doesn't exist
+ERROR		GNavSensor: Can't open file "Data/Sensor/EphemRinex/rinex_2019/brdc0010.19n". 
+ERROR		GNavSensor: Can't open file "Data/Sensor/EphemRinex/rinex_2019/brdc0010.19n". 
+ERROR		GNavSensor: Can't get parameters for GNavSensor
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0s	0m
+TIME	4.356
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 15:07:17
+TIME	0.070
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+TIME	3.070
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	3.067s	12.5534m
+TIME	16.573
+SIM_START	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	2022-08-30 15:09:49
+TIME	0.070
+		Name: VehSensor_0
+		SensorCycleTime: 83 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1
+
+SIM_END		SF_OpenDRIVE_IPGDriver_smallMap_test4control_turn_v1	0.214s	0.0636691m

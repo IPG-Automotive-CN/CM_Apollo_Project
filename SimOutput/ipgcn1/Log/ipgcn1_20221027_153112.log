@@ -1,0 +1,55 @@
+APPLICATION	CarMaker 11.0 - Car_Generic #111 (linux64-11.0)
+COMPILED	fh@dagobert.ipg 2022-03-30 10:40:53
+ 
+WARNING		/opt/ipg/etc/Licenses: Problem found in license file
+		> Line 49: duplicate license ignored (previous line 41)
+		> Line 65: duplicate license ignored (previous line 8)
+FIRST_INIT	(internal default used)	2022-10-27 15:31:12
+TIME	0.000
+SIM_END			0s	0m
+IDLE	15:31:13
+		A2:ipgcn1.1 registered
+SIM_START	Examples/BasicFunctions/Sensors/LidarRSI_Countryside	2022-10-27 15:31:14
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Sensors/LidarRSI_Countryside
+
+TIME	6.090
+SIM_END		Examples/BasicFunctions/Sensors/LidarRSI_Countryside	6.087s	25.5349m
+TIME	9.469
+		A3:ipgcn1.1 registered
+SIM_START	Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects	2022-10-27 15:31:58
+TIME	0.013
+ERROR		Camera Sensor: can't get symbols from external library.
+SIM_ABORT	Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects	0s	25.5349m
+SIM_START	Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects	2022-10-27 15:32:07
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects
+
+WARNING		CameraRSI: VDS client not running on simulation start. (-60)
+TIME	18.007
+SIM_END		Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects	18s	103.897m
+TIME	36.563
+SIM_START	Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects	2022-10-27 15:35:33
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects
+
+TIME	18.007
+SIM_END		Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects	18s	103.897m
+TIME	20.541
+SIM_START	Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects	2022-10-27 15:36:19
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects
+
+TIME	4.598
+SIM_END		Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects	4.595s	40.5238m
+TIME	10.168
+SIM_START	Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects	2022-10-27 15:37:20
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects
+
+TIME	7.191
+SIM_END		Examples/BasicFunctions/Sensors/CameraSensor_DetectObjects	7.182s	52.2585m
+TIME	330.618
+		Connection to GUI lost, initiate shutdown
+SHUTDOWN	Automatic CarMaker shutdown initiated
+

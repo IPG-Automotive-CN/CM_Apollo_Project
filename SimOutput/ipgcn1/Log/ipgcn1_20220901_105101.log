@@ -1,0 +1,39 @@
+APPLICATION	Car_Generic <insert.your.version.no> #467 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-09-01 10:27:07
+ 
+FIRST_INIT	(internal default used)	2022-09-01 10:51:01
+TIME	0.000
+SIM_END			0s	0m
+IDLE	10:51:02
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARRSI	2022-09-01 10:51:07
+TIME	0.083
+		Name: RadarL
+ERROR		No entry 'Sensor.1.UpdRate', file 'Data/Vehicle/Demo_Jaguar_XType_CM11_LIDARRSI'
+		SensorCycleTime: -2147483648 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1662000667
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_LIDARRSI	0s	0m
+TIME	3.121
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARRSI	2022-09-01 10:51:38
+TIME	0.070
+		Name: RadarL
+ERROR		No entry 'Sensor.1.UpdRate', file 'Data/Vehicle/Demo_Jaguar_XType_CM11_LIDARRSI'
+		SensorCycleTime: -2147483648 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1662000698
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_LIDARRSI	0s	0m
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARRSI	2022-09-01 10:51:54
+TIME	0.070
+		Name: RadarL
+ERROR		No entry 'Sensor.1.UpdRate', file 'Data/Vehicle/Demo_Jaguar_XType_CM11_LIDARRSI'
+		SensorCycleTime: -2147483648 ms
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1662000714
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_LIDARRSI	0s	0m

@@ -1,0 +1,14 @@
+APPLICATION	Car_Generic <insert.your.version.no> #496 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-10-24 10:31:17
+ 
+WARNING		/opt/ipg/etc/Licenses: Problem found in license file
+		> Line 49: duplicate license ignored (previous line 41)
+		> Line 65: duplicate license ignored (previous line 8)
+FIRST_INIT	(internal default used)	2022-10-24 10:32:14
+TIME	0.000
+SIM_END			0s	0m
+IDLE	10:32:14
+SIM_START	Examples/BasicFunctions/Driver/BackAndForth	2022-10-24 10:32:16
+TIME	0.054
+ERROR		No GCS-Coordinates reference entered! Please enter a reference value for lat, long and height.
+SIM_ABORT	Examples/BasicFunctions/Driver/BackAndForth	0s	0m

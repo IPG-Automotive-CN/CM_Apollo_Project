@@ -1,0 +1,16 @@
+APPLICATION	CarMaker 11.0 - Car_Generic #111 (linux64-11.0)
+COMPILED	fh@dagobert.ipg 2022-03-30 10:40:53
+ 
+FIRST_INIT	(internal default used)	2022-08-31 17:10:08
+TIME	0.000
+SIM_END			0s	0m
+IDLE	17:10:09
+		A3:ipgcn1.1 registered
+SIM_START	Examples/BasicFunctions/Sensors/LidarRSI_Countryside	2022-08-31 17:10:28
+TIME	0.000
+SIMULATE	Examples/BasicFunctions/Sensors/LidarRSI_Countryside
+
+TIME	14.833
+SIM_END		Examples/BasicFunctions/Sensors/LidarRSI_Countryside	14.83s	0.00781464m
+SHUTDOWN	CarMaker quick shutdown initiated
+

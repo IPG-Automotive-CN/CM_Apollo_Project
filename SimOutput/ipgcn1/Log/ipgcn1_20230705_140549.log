@@ -1,0 +1,16 @@
+APPLICATION	Car_Generic <insert.your.version.no> #630 (linux64-11.0)
+COMPILED	yil@ipgcn1 2023-07-04 14:17:24
+ 
+FIRST_INIT	(internal default used)	2023-07-05 14:05:49
+TIME	0.000
+SIM_END			0s	0m
+IDLE	14:05:49
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2023-07-05 14:05:50
+TIME	0.075
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+

@@ -1,0 +1,101 @@
+APPLICATION	Car_Generic <insert.your.version.no> #582 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-10-31 15:29:42
+ 
+WARNING		/opt/ipg/etc/Licenses: Problem found in license file
+		> Line 49: duplicate license ignored (previous line 41)
+		> Line 65: duplicate license ignored (previous line 8)
+FIRST_INIT	(internal default used)	2022-10-31 17:38:29
+TIME	0.000
+WARNING		RSDS: unable to connect (returns -2, Connection refused)
+SIM_END			0s	0m
+IDLE	17:38:29
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2022-10-31 17:38:31
+TIME	0.077
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+TIME	84.661
+ERROR		GPUSensor A2:ipgcn1.1: Connection lost
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_CameraRSI	84.661s	0.972987m
+TIME	95.679
+		A3:ipgcn1.1 registered
+TIME	0.004
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2022-10-31 17:41:52
+TIME	0.072
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+TIME	78.335
+ERROR		GPUSensor A3:ipgcn1.1: Connection lost
+SIM_ABORT	SF_OpenDRIVE_IPGDriver_CameraRSI	78.335s	0.969713m
+TIME	83.243
+		A4:ipgcn1.1 registered
+TIME	0.003
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2022-10-31 17:44:04
+TIME	0.071
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+TIME	4.717
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	4.65s	0.839963m
+		A5:ipgcn1.1 registered
+TIME	0.001
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2022-10-31 17:44:34
+TIME	0.075
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+TIME	11.362
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	11.359s	0.862889m
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2022-10-31 17:45:06
+TIME	0.068
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+TIME	5.780
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	5.777s	0.844097m
+WARNING		RSDS: unable to connect (returns -2, Connection refused)
+TIME	8.577
+		A6:ipgcn1.1 registered
+TIME	0.005
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2022-10-31 17:45:44
+TIME	0.073
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+TIME	30.526
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	30.523s	0.911759m
+TIME	35.964
+		A7:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2022-10-31 17:47:13
+TIME	0.075
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+TIME	14.690
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	14.687s	0.872945m
+TIME	63.723
+SHUTDOWN	CarMaker quick shutdown initiated
+

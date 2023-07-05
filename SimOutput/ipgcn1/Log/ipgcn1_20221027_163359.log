@@ -1,0 +1,25 @@
+APPLICATION	Car_Generic <insert.your.version.no> #534 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-10-27 16:20:24
+ 
+WARNING		/opt/ipg/etc/Licenses: Problem found in license file
+		> Line 49: duplicate license ignored (previous line 41)
+		> Line 65: duplicate license ignored (previous line 8)
+FIRST_INIT	(internal default used)	2022-10-27 16:33:59
+TIME	0.000
+		RSDS: can't connect 'localhost:2210'
+WARNING		RSDS: unable to connect (returns -2, Connection refused)
+SIM_END			0s	0m
+IDLE	16:33:59
+TIME	16.334
+		A2:ipgcn1.2 registered
+		A3:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	2022-10-27 16:36:43
+TIME	0.071
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+		Current random seed value = 1666859803
+		RSDS: connected: IPGMovie 11.0 2022-3-29
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR
+

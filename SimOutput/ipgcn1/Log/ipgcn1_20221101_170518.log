@@ -1,0 +1,33 @@
+APPLICATION	Car_Generic <insert.your.version.no> #593 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-11-01 15:26:27
+ 
+WARNING		/opt/ipg/etc/Licenses: Problem found in license file
+		> Line 49: duplicate license ignored (previous line 41)
+		> Line 65: duplicate license ignored (previous line 8)
+FIRST_INIT	(internal default used)	2022-11-01 17:05:18
+TIME	0.000
+SIM_END			0s	0m
+IDLE	17:05:19
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2022-11-01 17:05:19
+TIME	0.077
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+TIME	173.604
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	173.601s	0.983997m
+TIME	0.005
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2022-11-01 17:08:41
+TIME	0.075
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+TIME	113.710
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	113.707s	0.981084m
+SHUTDOWN	CarMaker quick shutdown initiated
+

@@ -1,0 +1,22 @@
+APPLICATION	Car_Generic <insert.your.version.no> #628 (linux64-11.0)
+COMPILED	yil@ipgcn1 2023-07-03 14:41:49
+ 
+FIRST_INIT	(internal default used)	2023-07-03 14:42:32
+TIME	0.000
+SIM_END			0s	0m
+IDLE	14:42:33
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2023-07-03 14:42:34
+TIME	0.075
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+WARNING		CameraRSI: VDS client not running on simulation start. (-60)
+TIME	53.658
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	53.65s	0.948542m
+TIME	162.461
+SHUTDOWN	CarMaker quick shutdown initiated
+

@@ -1,0 +1,24 @@
+
+[msgType:apollo.localization.CorrectedImu, topic: /apollo/sensor/gnss/corrected_imu]
+
+header {
+  timestamp_sec: 1581164922.2270858
+}
+imu {
+  linear_acceleration {
+    x: -3.939852376788622e-06
+    y: 2.001860411837697e-05
+    z: 9.807412147521973
+  }
+  angular_velocity {
+    x: -5.469143502523366e-07
+    y: -3.0195212730177445e-07
+    z: 2.7911076228015474e-12
+  }
+  heading: -269.9490661621094
+  euler_angles {
+    x: -9.035659039571906e-09
+    y: -1.232287383662526e-06
+    z: -4.711499980715814
+  }
+}

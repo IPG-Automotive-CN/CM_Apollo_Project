@@ -1,0 +1,15 @@
+APPLICATION	CarMaker 11.0 - Car_Generic #111 (linux64-11.0)
+COMPILED	fh@dagobert.ipg 2022-03-30 10:40:53
+ 
+FIRST_INIT	(internal default used)	2022-08-31 14:26:02
+TIME	0.000
+SIM_END			0s	0m
+IDLE	14:26:03
+		A2:ipgcn1.1 registered
+SIM_START	Examples/BasicFunctions/Sensors/LidarRSI_Countryside	2022-08-31 14:26:05
+TIME	0.101
+ERROR		LidarRSI: Graphics adapter unavailable.
+Most likely the graphics adapter is not supported or the NVIDIA driver
+is not installed correctly.
+Refer to Release Notes to check which graphic cards are supported. (-21)
+SIM_ABORT	Examples/BasicFunctions/Sensors/LidarRSI_Countryside	0s	0m

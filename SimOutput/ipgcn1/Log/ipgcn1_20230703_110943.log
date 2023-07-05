@@ -1,0 +1,15 @@
+APPLICATION	Car_Generic <insert.your.version.no> #624 (linux64-11.0)
+COMPILED	yil@ipgcn1 2023-06-30 17:48:27
+ 
+FIRST_INIT	(internal default used)	2023-07-03 11:09:43
+TIME	0.000
+SIM_END			0s	0m
+IDLE	11:09:44
+TIME	8.859
+WARNING		Sending connect request failed.
+WARNING		Could not connect to ipgcn1:11021
+SHUTDOWN	CarMaker quick shutdown initiated
+
+SIM_START	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	2023-07-03 11:10:14
+TIME	8.861
+WARNING		TestRun start aborted because of state (SimCore.State=End)

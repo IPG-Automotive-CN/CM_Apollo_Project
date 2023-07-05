@@ -1,0 +1,27 @@
+[msgType:apollo.drivers.gnss.GnssBestPose, topic: /apollo/sensor/gnss/best_pose]
+
+header {
+  timestamp_sec: 1265200137.4785569
+  sequence_num: 0
+}
+measurement_time: 1265200137.4785569
+sol_status: SOL_COMPUTED
+sol_type: NARROW_INT
+latitude: 37.79085747560367
+longitude: -122.3993910329849
+height_msl: 0.0
+undulation: 0.0
+datum_id: WGS84
+latitude_std_dev: 0.0099999998
+longitude_std_dev: 0.0099999998
+height_std_dev: 0.0099999998
+base_station_id: "0"
+differential_age: 2.0
+solution_age: 0.0
+num_sats_tracked: 15
+num_sats_in_solution: 15
+num_sats_l1: 15
+num_sats_multi: 12
+extended_solution_status: 33
+galileo_beidou_used_mask: 0
+gps_glonass_used_mask: 51

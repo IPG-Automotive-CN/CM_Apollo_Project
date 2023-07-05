@@ -1,0 +1,10 @@
+APPLICATION	Car_Generic <insert.your.version.no> #453 (linux64-11.0)
+COMPILED	yil@ipgcn1 2022-08-30 18:39:06
+ 
+FIRST_INIT	(internal default used)	2022-08-31 10:39:49
+TIME	0.000
+SIM_END			0s	0m
+IDLE	10:39:49
+TIME	23.882
+SHUTDOWN	CarMaker quick shutdown initiated
+

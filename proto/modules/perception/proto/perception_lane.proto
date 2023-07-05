@@ -1,0 +1,14 @@
+syntax = "proto2";
+
+package apollo.perception;
+
+import "modules/common/proto/header.proto";
+import "modules/perception/proto/perception_camera.proto";
+
+message PerceptionLanes {
+    optional apollo.common.Header header = 1;                   // header
+    optional string source_topic = 2;                               // which topic to get the frame
+    optional apollo.perception.camera.CameraErrorCode error_code = 3 [default = ERROR_NONE]; // error code
+    optional apollo.perception.camera.CameraCalibrator camera_calibrator = 4;
+    repeated apollo.perception.camera.CameraLaneLine camera_laneline = 5;
+}

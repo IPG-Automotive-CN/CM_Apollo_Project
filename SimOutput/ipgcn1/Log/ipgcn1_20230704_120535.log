@@ -1,0 +1,21 @@
+APPLICATION	Car_Generic <insert.your.version.no> #629 (linux64-11.0)
+COMPILED	yil@ipgcn1 2023-07-04 12:05:21
+ 
+FIRST_INIT	(internal default used)	2023-07-04 12:05:35
+TIME	0.000
+SIM_END			0s	0m
+IDLE	12:05:36
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2023-07-04 12:05:38
+TIME	0.068
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+TIME	36.229
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	36.226s	0.922735m
+TIME	333.104
+SHUTDOWN	CarMaker quick shutdown initiated
+
