@@ -165,7 +165,7 @@ static int RSDS_GetData(void) {
     // ImgHeight, ImgLen);
     if (RSDSIF.imgLen > 0) {
 
-
+      free(RSDSIF.image);
       RSDSIF.image= (char *)malloc(RSDSIF.imgLen);
 
       if (RSDS_ReadChunk(RSDSIF.image, RSDSIF.imgLen) != 0) {
