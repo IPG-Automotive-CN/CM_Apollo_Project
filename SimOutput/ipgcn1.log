@@ -3263,6 +3263,7 @@ SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-04 12:05:35
 SYSTEM_INFO	Car_Generic <insert.your.version.no> #629	yil@ipgcn1 2023-07-04 12:05:21	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
 SIM	1688443535	ipgcn1			0	0	0
 SIM	1688443538	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	36.226	0.922735
+<<<<<<< HEAD
 
 
 SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-04 14:18:40
@@ -3414,3 +3415,51 @@ SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-05 15:11:24
 SYSTEM_INFO	Car_Generic <insert.your.version.no> #638	yil@ipgcn1 2023-07-05 15:11:13	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
 SIM	1688541084	ipgcn1			0	0	0
 SIM	1688541085	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	39.423	33.5264
+=======
+>>>>>>> 4e3a4bcbe3e88a047ac019ffd778cda1310c3aaf
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-25 10:35:27
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #638	yil@ipgcn1 2023-07-05 15:11:13	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-25 10:37:49
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #638	yil@ipgcn1 2023-07-05 15:11:13	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1690252669	ipgcn1			0	0	0
+SIM	1690252670	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	109.865	0.980481
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-25 11:31:54
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #638	yil@ipgcn1 2023-07-05 15:11:13	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1690255914	ipgcn1			0	0	0
+SIM	1690255915	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	91.485	0.975783
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-25 11:34:26
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #638	yil@ipgcn1 2023-07-05 15:11:13	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1690256066	ipgcn1			0	0	0
+SIM	1690256067	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	11.187	0.862347
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-25 11:35:31
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #638	yil@ipgcn1 2023-07-05 15:11:13	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1690256131	ipgcn1			0	0	0
+SIM	1690256132	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_LIDARANDRADAR	0	134.185	0.912785
+
+
+SYSTEM_START	-	ipgcn1	ipgcn1	2023-07-25 14:09:56
+
+
+SYSTEM_INFO	Car_Generic <insert.your.version.no> #638	yil@ipgcn1 2023-07-05 15:11:13	(11.0 fh@dagobert.ipg 2022-03-30 10:40:52)
+SIM	1690265396	ipgcn1			0	0	0
+SIM	1690265397	ipgcn1	yil	SF_OpenDRIVE_IPGDriver_CameraRSI	0	219.295	253.47

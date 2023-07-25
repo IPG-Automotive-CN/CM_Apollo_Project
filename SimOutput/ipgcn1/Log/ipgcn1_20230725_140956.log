@@ -1,0 +1,22 @@
+APPLICATION	Car_Generic <insert.your.version.no> #638 (linux64-11.0)
+COMPILED	yil@ipgcn1 2023-07-05 15:11:13
+ 
+FIRST_INIT	(internal default used)	2023-07-25 14:09:56
+TIME	0.000
+SIM_END			0s	0m
+IDLE	14:09:56
+		A2:ipgcn1.1 registered
+SIM_START	SF_OpenDRIVE_IPGDriver_CameraRSI	2023-07-25 14:09:57
+TIME	0.068
+		Ref_Origin_GCS: 37.786336	 -122.401858	 0.000000
+		Ref_Origin_Fr0: -293.330000	 0.170000	 0.000000
+
+TIME	0.000
+SIMULATE	SF_OpenDRIVE_IPGDriver_CameraRSI
+
+TIME	99.935
+WARNING		ObjectByLane Sensor 'IPGDriver': POI is on a junction but not within bounds of the driving path. No information about objects can be collected outside the bounds. IPGDriver may not work correctly in this case.
+TIME	219.295
+SHUTDOWN	CarMaker quick shutdown initiated
+
+SIM_END		SF_OpenDRIVE_IPGDriver_CameraRSI	219.295s	253.47m
