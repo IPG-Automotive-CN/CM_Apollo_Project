@@ -128,17 +128,11 @@ int tcp_client_init()
     if (sockfd < 0)
         error("ERROR opening socket");
 
-<<<<<<< HEAD
-
-    char* tcp_server_ip = 
-        iGetStrOpt(SimCore.TestRig.SimParam.Inf, "Apollo_Server_Ip", "192.168.0.130");
-=======
     //You can set the server ip by edit the CarMaker Infofile 
     //which named "SimParameter" and located in "./Data/Config", 
     //usage:  "Apollo_Server_Ip = 192.168.0.130"
     char* tcp_server_ip = 
         iGetStrOpt(SimCore.TestRig.SimParam.Inf, "Apollo_Server_Ip", "localhost");
->>>>>>> 4e3a4bcbe3e88a047ac019ffd778cda1310c3aaf
 
 
     printf("Apollo Server Ip = %s\n", tcp_server_ip);
@@ -212,8 +206,4 @@ void tcp_client_stop()
     }
     sockfd = -1;
     PRINT_INFO"<<Ended function"<<std::endl;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 4e3a4bcbe3e88a047ac019ffd778cda1310c3aaf
